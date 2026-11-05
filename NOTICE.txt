@@ -1,0 +1,34 @@
+PUBLIC DATA ATTRIBUTION AND LICENSES
+
+The included datasets are supplied under Creative Commons Attribution 4.0.
+License: https://creativecommons.org/licenses/by/4.0/
+This notice applies to the public data; no software license is granted here.
+
+1. Helwig, N., Pignanelli, E., and Schuetze, A. (2015).
+   Condition monitoring of hydraulic systems. UCI Machine Learning Repository.
+   DOI: https://doi.org/10.24432/C5CW21
+   Source: https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems
+   Selection: first 120 physical rows of TS1.txt with a finite first scalar (degC).
+
+2. AI4I 2020 Predictive Maintenance Dataset (2020).
+   UCI Machine Learning Repository. Public synthetic data.
+   DOI: https://doi.org/10.24432/C5HS5C
+   Source: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
+   Selection: first 120 finite Torque [Nm] values in original CSV row order.
+
+3. Chen, S. (2015). Beijing PM2.5. UCI Machine Learning Repository.
+   DOI: https://doi.org/10.24432/C5JS49
+   Source: https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data
+   Selection: first 120 finite pm2.5 values in original row order, skipping NA (ug/m3).
+
+Changes: selected scalars are mapped to seven canonical fields and controlled
+CSV, XLSX, SQLite, DOCX, PDF and JSON fixtures. Derived IDs, decimal formatting,
+column-order changes, missing fields, duplicates, encodings and truncations are
+experimental transformations. Original numeric text and source row/column links
+are retained in source_lineage.csv. Raw source members are unchanged.
+
+These controlled fixtures do not establish arbitrary-document recognition or
+production accuracy. Source providers do not endorse this work. The repository
+supports retrospective reproduction with cached public data; historical receipt
+hashes refer to the original study archive. The repository release and runtime
+manifests are separate records and are not the original experimental freeze.

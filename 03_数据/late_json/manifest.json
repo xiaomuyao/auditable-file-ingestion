@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "path": "fixtures/records.json",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    }
+  ],
+  "case": "normal",
+  "expected_outcome": "accept",
+  "expected_final_unique_rows": 240
+}

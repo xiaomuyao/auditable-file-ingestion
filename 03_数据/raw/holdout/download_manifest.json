@@ -1,0 +1,7 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/381/beijing+pm2+5+data.zip",
+  "path": "beijing_pm25.zip",
+  "bytes": 2010658,
+  "sha256": "40cdd29c24918e855133dce280ff59779bb0b5852898e05bafcf422a4cc0a175",
+  "retrieved_at_utc": "2026-10-21T03:19:34.113309+00:00"
+}

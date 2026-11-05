@@ -1,0 +1,17 @@
+*.md
+*.md.diff
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+**/bin/
+**/obj/
+**/build-temp/
+复现运行/
+reproduction-runs/
+results/
+*.log
+.env
+.env.*
+*.pem
+*.key

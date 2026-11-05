@@ -1,0 +1,7 @@
+{
+  "generated_at_utc": "2026-10-21T03:00:20.870299+00:00",
+  "base_freeze_sha256": "05bfe1b4f315f8939c052879a757a21e801c30ef36510fbf9e95cf967e851d0c",
+  "base_frozen_at_utc": "2026-10-21T02:58:41.069622+00:00",
+  "generator_sha256": "e81e65f0c53fe3d9dafdfc3943f0de36cb78694af1c0cdfa4bceea5ceb771038",
+  "source": "Existing base canonical truth only; holdout untouched."
+}

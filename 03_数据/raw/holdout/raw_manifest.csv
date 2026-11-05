@@ -1,0 +1,3 @@
+source_key,source_category,path,sha256,bytes,source_page,doi,license,license_url,retrieved_at_utc,raw_role
+holdout,public_real,beijing_pm25.zip,40cdd29c24918e855133dce280ff59779bb0b5852898e05bafcf422a4cc0a175,2010658,https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data,10.24432/C5JS49,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/,2026-10-21T03:19:34.113309+00:00,unchanged_official_archive
+holdout,public_real,PRSA_data_2010.1.1-2014.12.31.csv,4127f868775e31b3956522adc0ec75af8937dde6a3896e8beed3a376c6d27f1c,2010494,https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data,10.24432/C5JS49,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/,2026-10-21T03:19:34.113309+00:00,unchanged_archive_member

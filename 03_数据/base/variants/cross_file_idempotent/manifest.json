@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "path": "first.csv",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    },
+    {
+      "path": "second.xlsx",
+      "decimal_locale": "invariant",
+      "encoding": "format_defined",
+      "delimiter": ","
+    }
+  ],
+  "case": "cross_file_idempotent",
+  "expected_file_outcomes": [
+    "accept",
+    "idempotent_no_new_rows"
+  ],
+  "expected_final_unique_rows": 240,
+  "expected_second_inserted_rows": 0
+}

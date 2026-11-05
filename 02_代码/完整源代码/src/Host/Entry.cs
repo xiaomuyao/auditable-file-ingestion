@@ -1,0 +1,2 @@
+using System;using System.Diagnostics;using Ingestion;
+class Entry {static int Main(string[] args){var total=Stopwatch.StartNew();double cpu=Process.GetCurrentProcess().TotalProcessorTime.TotalMilliseconds;try{var o=Options.Parse(args);var load=Stopwatch.StartNew();var plugins=PluginFactory.Create(o);load.Stop();return Engine.Run(o,plugins,PluginFactory.Mode,total,load.Elapsed.TotalMilliseconds,cpu);}catch(Exception e){Console.Error.WriteLine(e);return 1;}}}

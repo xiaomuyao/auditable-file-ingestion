@@ -1,0 +1,241 @@
+record_id,dataset,source_category,field,unit,value,source_locator
+H0001,Hydraulic,public_real,TS1,degC,35.57,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=1:col=1
+H0002,Hydraulic,public_real,TS1,degC,36.156,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=2:col=1
+H0003,Hydraulic,public_real,TS1,degC,37.488,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=3:col=1
+H0004,Hydraulic,public_real,TS1,degC,38.633,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=4:col=1
+H0005,Hydraulic,public_real,TS1,degC,39.461,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=5:col=1
+H0006,Hydraulic,public_real,TS1,degC,40.398,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=6:col=1
+H0007,Hydraulic,public_real,TS1,degC,41.223,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=7:col=1
+H0008,Hydraulic,public_real,TS1,degC,42.043,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=8:col=1
+H0009,Hydraulic,public_real,TS1,degC,42.73,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=9:col=1
+H0010,Hydraulic,public_real,TS1,degC,43.379,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=10:col=1
+H0011,Hydraulic,public_real,TS1,degC,43.992,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=11:col=1
+H0012,Hydraulic,public_real,TS1,degC,44.594,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=12:col=1
+H0013,Hydraulic,public_real,TS1,degC,45.082,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=13:col=1
+H0014,Hydraulic,public_real,TS1,degC,45.574,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=14:col=1
+H0015,Hydraulic,public_real,TS1,degC,45.992,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=15:col=1
+H0016,Hydraulic,public_real,TS1,degC,46.422,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=16:col=1
+H0017,Hydraulic,public_real,TS1,degC,46.762,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=17:col=1
+H0018,Hydraulic,public_real,TS1,degC,47.203,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=18:col=1
+H0019,Hydraulic,public_real,TS1,degC,47.453,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=19:col=1
+H0020,Hydraulic,public_real,TS1,degC,47.762,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=20:col=1
+H0021,Hydraulic,public_real,TS1,degC,48.027,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=21:col=1
+H0022,Hydraulic,public_real,TS1,degC,48.336,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=22:col=1
+H0023,Hydraulic,public_real,TS1,degC,48.535,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=23:col=1
+H0024,Hydraulic,public_real,TS1,degC,48.789,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=24:col=1
+H0025,Hydraulic,public_real,TS1,degC,48.957,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=25:col=1
+H0026,Hydraulic,public_real,TS1,degC,49.117,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=26:col=1
+H0027,Hydraulic,public_real,TS1,degC,49.332,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=27:col=1
+H0028,Hydraulic,public_real,TS1,degC,49.602,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=28:col=1
+H0029,Hydraulic,public_real,TS1,degC,49.719,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=29:col=1
+H0030,Hydraulic,public_real,TS1,degC,49.875,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=30:col=1
+H0031,Hydraulic,public_real,TS1,degC,49.996,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=31:col=1
+H0032,Hydraulic,public_real,TS1,degC,50.133,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=32:col=1
+H0033,Hydraulic,public_real,TS1,degC,50.199,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=33:col=1
+H0034,Hydraulic,public_real,TS1,degC,50.379,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=34:col=1
+H0035,Hydraulic,public_real,TS1,degC,50.437,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=35:col=1
+H0036,Hydraulic,public_real,TS1,degC,50.531,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=36:col=1
+H0037,Hydraulic,public_real,TS1,degC,50.633,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=37:col=1
+H0038,Hydraulic,public_real,TS1,degC,50.797,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=38:col=1
+H0039,Hydraulic,public_real,TS1,degC,50.84,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=39:col=1
+H0040,Hydraulic,public_real,TS1,degC,50.879,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=40:col=1
+H0041,Hydraulic,public_real,TS1,degC,50.965,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=41:col=1
+H0042,Hydraulic,public_real,TS1,degC,51.051,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=42:col=1
+H0043,Hydraulic,public_real,TS1,degC,51.129,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=43:col=1
+H0044,Hydraulic,public_real,TS1,degC,51.211,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=44:col=1
+H0045,Hydraulic,public_real,TS1,degC,51.316,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=45:col=1
+H0046,Hydraulic,public_real,TS1,degC,51.297,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=46:col=1
+H0047,Hydraulic,public_real,TS1,degC,51.371,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=47:col=1
+H0048,Hydraulic,public_real,TS1,degC,51.437,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=48:col=1
+H0049,Hydraulic,public_real,TS1,degC,51.449,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=49:col=1
+H0050,Hydraulic,public_real,TS1,degC,51.488,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=50:col=1
+H0051,Hydraulic,public_real,TS1,degC,51.555,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=51:col=1
+H0052,Hydraulic,public_real,TS1,degC,51.648,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=52:col=1
+H0053,Hydraulic,public_real,TS1,degC,51.703,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=53:col=1
+H0054,Hydraulic,public_real,TS1,degC,51.742,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=54:col=1
+H0055,Hydraulic,public_real,TS1,degC,51.73,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=55:col=1
+H0056,Hydraulic,public_real,TS1,degC,51.793,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=56:col=1
+H0057,Hydraulic,public_real,TS1,degC,51.883,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=57:col=1
+H0058,Hydraulic,public_real,TS1,degC,51.887,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=58:col=1
+H0059,Hydraulic,public_real,TS1,degC,51.891,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=59:col=1
+H0060,Hydraulic,public_real,TS1,degC,51.883,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=60:col=1
+H0061,Hydraulic,public_real,TS1,degC,51.957,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=61:col=1
+H0062,Hydraulic,public_real,TS1,degC,51.98,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=62:col=1
+H0063,Hydraulic,public_real,TS1,degC,51.98,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=63:col=1
+H0064,Hydraulic,public_real,TS1,degC,52.062,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=64:col=1
+H0065,Hydraulic,public_real,TS1,degC,52.07,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=65:col=1
+H0066,Hydraulic,public_real,TS1,degC,52.051,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=66:col=1
+H0067,Hydraulic,public_real,TS1,degC,52.129,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=67:col=1
+H0068,Hydraulic,public_real,TS1,degC,52.102,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=68:col=1
+H0069,Hydraulic,public_real,TS1,degC,52.137,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=69:col=1
+H0070,Hydraulic,public_real,TS1,degC,52.211,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=70:col=1
+H0071,Hydraulic,public_real,TS1,degC,52.316,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=71:col=1
+H0072,Hydraulic,public_real,TS1,degC,52.316,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=72:col=1
+H0073,Hydraulic,public_real,TS1,degC,52.328,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=73:col=1
+H0074,Hydraulic,public_real,TS1,degC,52.402,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=74:col=1
+H0075,Hydraulic,public_real,TS1,degC,52.477,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=75:col=1
+H0076,Hydraulic,public_real,TS1,degC,52.496,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=76:col=1
+H0077,Hydraulic,public_real,TS1,degC,52.555,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=77:col=1
+H0078,Hydraulic,public_real,TS1,degC,52.645,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=78:col=1
+H0079,Hydraulic,public_real,TS1,degC,52.656,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=79:col=1
+H0080,Hydraulic,public_real,TS1,degC,52.789,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=80:col=1
+H0081,Hydraulic,public_real,TS1,degC,52.801,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=81:col=1
+H0082,Hydraulic,public_real,TS1,degC,52.801,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=82:col=1
+H0083,Hydraulic,public_real,TS1,degC,52.828,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=83:col=1
+H0084,Hydraulic,public_real,TS1,degC,52.922,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=84:col=1
+H0085,Hydraulic,public_real,TS1,degC,52.887,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=85:col=1
+H0086,Hydraulic,public_real,TS1,degC,52.91,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=86:col=1
+H0087,Hydraulic,public_real,TS1,degC,52.977,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=87:col=1
+H0088,Hydraulic,public_real,TS1,degC,52.977,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=88:col=1
+H0089,Hydraulic,public_real,TS1,degC,52.969,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=89:col=1
+H0090,Hydraulic,public_real,TS1,degC,52.992,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=90:col=1
+H0091,Hydraulic,public_real,TS1,degC,53.074,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=91:col=1
+H0092,Hydraulic,public_real,TS1,degC,53.082,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=92:col=1
+H0093,Hydraulic,public_real,TS1,degC,53.148,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=93:col=1
+H0094,Hydraulic,public_real,TS1,degC,53.152,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=94:col=1
+H0095,Hydraulic,public_real,TS1,degC,53.191,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=95:col=1
+H0096,Hydraulic,public_real,TS1,degC,53.227,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=96:col=1
+H0097,Hydraulic,public_real,TS1,degC,53.23,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=97:col=1
+H0098,Hydraulic,public_real,TS1,degC,53.219,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=98:col=1
+H0099,Hydraulic,public_real,TS1,degC,53.32,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=99:col=1
+H0100,Hydraulic,public_real,TS1,degC,53.324,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=100:col=1
+H0101,Hydraulic,public_real,TS1,degC,53.219,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=101:col=1
+H0102,Hydraulic,public_real,TS1,degC,53.379,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=102:col=1
+H0103,Hydraulic,public_real,TS1,degC,53.379,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=103:col=1
+H0104,Hydraulic,public_real,TS1,degC,53.418,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=104:col=1
+H0105,Hydraulic,public_real,TS1,degC,53.414,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=105:col=1
+H0106,Hydraulic,public_real,TS1,degC,53.402,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=106:col=1
+H0107,Hydraulic,public_real,TS1,degC,53.391,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=107:col=1
+H0108,Hydraulic,public_real,TS1,degC,53.402,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=108:col=1
+H0109,Hydraulic,public_real,TS1,degC,53.48,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=109:col=1
+H0110,Hydraulic,public_real,TS1,degC,53.566,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=110:col=1
+H0111,Hydraulic,public_real,TS1,degC,53.566,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=111:col=1
+H0112,Hydraulic,public_real,TS1,degC,53.562,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=112:col=1
+H0113,Hydraulic,public_real,TS1,degC,53.621,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=113:col=1
+H0114,Hydraulic,public_real,TS1,degC,53.566,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=114:col=1
+H0115,Hydraulic,public_real,TS1,degC,53.652,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=115:col=1
+H0116,Hydraulic,public_real,TS1,degC,53.621,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=116:col=1
+H0117,Hydraulic,public_real,TS1,degC,53.645,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=117:col=1
+H0118,Hydraulic,public_real,TS1,degC,53.652,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=118:col=1
+H0119,Hydraulic,public_real,TS1,degC,53.746,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=119:col=1
+H0120,Hydraulic,public_real,TS1,degC,53.75,https://archive.ics.uci.edu/dataset/447#TS1.txt:row=120:col=1
+A0001,AI4I,public_synthetic,Torque,Nm,42.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=2:col=Torque [Nm]
+A0002,AI4I,public_synthetic,Torque,Nm,46.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=3:col=Torque [Nm]
+A0003,AI4I,public_synthetic,Torque,Nm,49.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=4:col=Torque [Nm]
+A0004,AI4I,public_synthetic,Torque,Nm,39.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=5:col=Torque [Nm]
+A0005,AI4I,public_synthetic,Torque,Nm,40,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=6:col=Torque [Nm]
+A0006,AI4I,public_synthetic,Torque,Nm,41.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=7:col=Torque [Nm]
+A0007,AI4I,public_synthetic,Torque,Nm,42.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=8:col=Torque [Nm]
+A0008,AI4I,public_synthetic,Torque,Nm,40.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=9:col=Torque [Nm]
+A0009,AI4I,public_synthetic,Torque,Nm,28.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=10:col=Torque [Nm]
+A0010,AI4I,public_synthetic,Torque,Nm,28,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=11:col=Torque [Nm]
+A0011,AI4I,public_synthetic,Torque,Nm,23.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=12:col=Torque [Nm]
+A0012,AI4I,public_synthetic,Torque,Nm,44.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=13:col=Torque [Nm]
+A0013,AI4I,public_synthetic,Torque,Nm,51.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=14:col=Torque [Nm]
+A0014,AI4I,public_synthetic,Torque,Nm,30,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=15:col=Torque [Nm]
+A0015,AI4I,public_synthetic,Torque,Nm,19.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=16:col=Torque [Nm]
+A0016,AI4I,public_synthetic,Torque,Nm,48.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=17:col=Torque [Nm]
+A0017,AI4I,public_synthetic,Torque,Nm,46.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=18:col=Torque [Nm]
+A0018,AI4I,public_synthetic,Torque,Nm,45.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=19:col=Torque [Nm]
+A0019,AI4I,public_synthetic,Torque,Nm,54.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=20:col=Torque [Nm]
+A0020,AI4I,public_synthetic,Torque,Nm,32.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=21:col=Torque [Nm]
+A0021,AI4I,public_synthetic,Torque,Nm,42.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=22:col=Torque [Nm]
+A0022,AI4I,public_synthetic,Torque,Nm,44.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=23:col=Torque [Nm]
+A0023,AI4I,public_synthetic,Torque,Nm,30.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=24:col=Torque [Nm]
+A0024,AI4I,public_synthetic,Torque,Nm,25.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=25:col=Torque [Nm]
+A0025,AI4I,public_synthetic,Torque,Nm,37.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=26:col=Torque [Nm]
+A0026,AI4I,public_synthetic,Torque,Nm,23.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=27:col=Torque [Nm]
+A0027,AI4I,public_synthetic,Torque,Nm,39,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=28:col=Torque [Nm]
+A0028,AI4I,public_synthetic,Torque,Nm,24.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=29:col=Torque [Nm]
+A0029,AI4I,public_synthetic,Torque,Nm,44.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=30:col=Torque [Nm]
+A0030,AI4I,public_synthetic,Torque,Nm,30.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=31:col=Torque [Nm]
+A0031,AI4I,public_synthetic,Torque,Nm,48.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=32:col=Torque [Nm]
+A0032,AI4I,public_synthetic,Torque,Nm,25.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=33:col=Torque [Nm]
+A0033,AI4I,public_synthetic,Torque,Nm,48.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=34:col=Torque [Nm]
+A0034,AI4I,public_synthetic,Torque,Nm,32.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=35:col=Torque [Nm]
+A0035,AI4I,public_synthetic,Torque,Nm,34.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=36:col=Torque [Nm]
+A0036,AI4I,public_synthetic,Torque,Nm,48.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=37:col=Torque [Nm]
+A0037,AI4I,public_synthetic,Torque,Nm,36.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=38:col=Torque [Nm]
+A0038,AI4I,public_synthetic,Torque,Nm,39.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=39:col=Torque [Nm]
+A0039,AI4I,public_synthetic,Torque,Nm,50.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=40:col=Torque [Nm]
+A0040,AI4I,public_synthetic,Torque,Nm,52.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=41:col=Torque [Nm]
+A0041,AI4I,public_synthetic,Torque,Nm,45.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=42:col=Torque [Nm]
+A0042,AI4I,public_synthetic,Torque,Nm,50.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=43:col=Torque [Nm]
+A0043,AI4I,public_synthetic,Torque,Nm,49.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=44:col=Torque [Nm]
+A0044,AI4I,public_synthetic,Torque,Nm,48.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=45:col=Torque [Nm]
+A0045,AI4I,public_synthetic,Torque,Nm,47.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=46:col=Torque [Nm]
+A0046,AI4I,public_synthetic,Torque,Nm,49.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=47:col=Torque [Nm]
+A0047,AI4I,public_synthetic,Torque,Nm,25.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=48:col=Torque [Nm]
+A0048,AI4I,public_synthetic,Torque,Nm,46.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=49:col=Torque [Nm]
+A0049,AI4I,public_synthetic,Torque,Nm,53.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=50:col=Torque [Nm]
+A0050,AI4I,public_synthetic,Torque,Nm,44.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=51:col=Torque [Nm]
+A0051,AI4I,public_synthetic,Torque,Nm,4.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=52:col=Torque [Nm]
+A0052,AI4I,public_synthetic,Torque,Nm,54.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=53:col=Torque [Nm]
+A0053,AI4I,public_synthetic,Torque,Nm,43.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=54:col=Torque [Nm]
+A0054,AI4I,public_synthetic,Torque,Nm,35.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=55:col=Torque [Nm]
+A0055,AI4I,public_synthetic,Torque,Nm,30.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=56:col=Torque [Nm]
+A0056,AI4I,public_synthetic,Torque,Nm,40.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=57:col=Torque [Nm]
+A0057,AI4I,public_synthetic,Torque,Nm,42.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=58:col=Torque [Nm]
+A0058,AI4I,public_synthetic,Torque,Nm,40.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=59:col=Torque [Nm]
+A0059,AI4I,public_synthetic,Torque,Nm,29.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=60:col=Torque [Nm]
+A0060,AI4I,public_synthetic,Torque,Nm,54.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=61:col=Torque [Nm]
+A0061,AI4I,public_synthetic,Torque,Nm,52.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=62:col=Torque [Nm]
+A0062,AI4I,public_synthetic,Torque,Nm,38.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=63:col=Torque [Nm]
+A0063,AI4I,public_synthetic,Torque,Nm,22.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=64:col=Torque [Nm]
+A0064,AI4I,public_synthetic,Torque,Nm,25.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=65:col=Torque [Nm]
+A0065,AI4I,public_synthetic,Torque,Nm,38.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=66:col=Torque [Nm]
+A0066,AI4I,public_synthetic,Torque,Nm,45.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=67:col=Torque [Nm]
+A0067,AI4I,public_synthetic,Torque,Nm,28.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=68:col=Torque [Nm]
+A0068,AI4I,public_synthetic,Torque,Nm,44.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=69:col=Torque [Nm]
+A0069,AI4I,public_synthetic,Torque,Nm,32.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=70:col=Torque [Nm]
+A0070,AI4I,public_synthetic,Torque,Nm,65.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=71:col=Torque [Nm]
+A0071,AI4I,public_synthetic,Torque,Nm,22.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=72:col=Torque [Nm]
+A0072,AI4I,public_synthetic,Torque,Nm,45.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=73:col=Torque [Nm]
+A0073,AI4I,public_synthetic,Torque,Nm,44.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=74:col=Torque [Nm]
+A0074,AI4I,public_synthetic,Torque,Nm,35,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=75:col=Torque [Nm]
+A0075,AI4I,public_synthetic,Torque,Nm,32.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=76:col=Torque [Nm]
+A0076,AI4I,public_synthetic,Torque,Nm,46.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=77:col=Torque [Nm]
+A0077,AI4I,public_synthetic,Torque,Nm,47.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=78:col=Torque [Nm]
+A0078,AI4I,public_synthetic,Torque,Nm,41.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=79:col=Torque [Nm]
+A0079,AI4I,public_synthetic,Torque,Nm,51.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=80:col=Torque [Nm]
+A0080,AI4I,public_synthetic,Torque,Nm,37.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=81:col=Torque [Nm]
+A0081,AI4I,public_synthetic,Torque,Nm,49.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=82:col=Torque [Nm]
+A0082,AI4I,public_synthetic,Torque,Nm,47.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=83:col=Torque [Nm]
+A0083,AI4I,public_synthetic,Torque,Nm,40.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=84:col=Torque [Nm]
+A0084,AI4I,public_synthetic,Torque,Nm,40.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=85:col=Torque [Nm]
+A0085,AI4I,public_synthetic,Torque,Nm,47.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=86:col=Torque [Nm]
+A0086,AI4I,public_synthetic,Torque,Nm,26.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=87:col=Torque [Nm]
+A0087,AI4I,public_synthetic,Torque,Nm,43.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=88:col=Torque [Nm]
+A0088,AI4I,public_synthetic,Torque,Nm,31.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=89:col=Torque [Nm]
+A0089,AI4I,public_synthetic,Torque,Nm,45.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=90:col=Torque [Nm]
+A0090,AI4I,public_synthetic,Torque,Nm,39.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=91:col=Torque [Nm]
+A0091,AI4I,public_synthetic,Torque,Nm,25.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=92:col=Torque [Nm]
+A0092,AI4I,public_synthetic,Torque,Nm,24.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=93:col=Torque [Nm]
+A0093,AI4I,public_synthetic,Torque,Nm,27.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=94:col=Torque [Nm]
+A0094,AI4I,public_synthetic,Torque,Nm,43,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=95:col=Torque [Nm]
+A0095,AI4I,public_synthetic,Torque,Nm,31.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=96:col=Torque [Nm]
+A0096,AI4I,public_synthetic,Torque,Nm,52.2,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=97:col=Torque [Nm]
+A0097,AI4I,public_synthetic,Torque,Nm,35.3,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=98:col=Torque [Nm]
+A0098,AI4I,public_synthetic,Torque,Nm,29.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=99:col=Torque [Nm]
+A0099,AI4I,public_synthetic,Torque,Nm,32.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=100:col=Torque [Nm]
+A0100,AI4I,public_synthetic,Torque,Nm,44.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=101:col=Torque [Nm]
+A0101,AI4I,public_synthetic,Torque,Nm,25,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=102:col=Torque [Nm]
+A0102,AI4I,public_synthetic,Torque,Nm,20.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=103:col=Torque [Nm]
+A0103,AI4I,public_synthetic,Torque,Nm,40.6,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=104:col=Torque [Nm]
+A0104,AI4I,public_synthetic,Torque,Nm,40.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=105:col=Torque [Nm]
+A0105,AI4I,public_synthetic,Torque,Nm,43.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=106:col=Torque [Nm]
+A0106,AI4I,public_synthetic,Torque,Nm,31.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=107:col=Torque [Nm]
+A0107,AI4I,public_synthetic,Torque,Nm,48.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=108:col=Torque [Nm]
+A0108,AI4I,public_synthetic,Torque,Nm,46.8,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=109:col=Torque [Nm]
+A0109,AI4I,public_synthetic,Torque,Nm,32.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=110:col=Torque [Nm]
+A0110,AI4I,public_synthetic,Torque,Nm,34.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=111:col=Torque [Nm]
+A0111,AI4I,public_synthetic,Torque,Nm,22.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=112:col=Torque [Nm]
+A0112,AI4I,public_synthetic,Torque,Nm,43.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=113:col=Torque [Nm]
+A0113,AI4I,public_synthetic,Torque,Nm,39.5,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=114:col=Torque [Nm]
+A0114,AI4I,public_synthetic,Torque,Nm,41.9,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=115:col=Torque [Nm]
+A0115,AI4I,public_synthetic,Torque,Nm,29.4,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=116:col=Torque [Nm]
+A0116,AI4I,public_synthetic,Torque,Nm,45.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=117:col=Torque [Nm]
+A0117,AI4I,public_synthetic,Torque,Nm,34.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=118:col=Torque [Nm]
+A0118,AI4I,public_synthetic,Torque,Nm,33,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=119:col=Torque [Nm]
+A0119,AI4I,public_synthetic,Torque,Nm,28.1,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=120:col=Torque [Nm]
+A0120,AI4I,public_synthetic,Torque,Nm,40.7,https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=121:col=Torque [Nm]

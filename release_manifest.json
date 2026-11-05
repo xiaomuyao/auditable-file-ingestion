@@ -1,0 +1,1197 @@
+{
+  "stage": "repository_source_release",
+  "created_at_utc": "2026-11-05T03:49:54.578722+00:00",
+  "purpose": "Source distribution for retrospective reproduction; not the original experimental code-freeze receipt.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+      "bytes": 9
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "4f25d75eb31f3d5fc6b75909f089b81f9d5cfbc76bed4c75874e120525dd8a1c",
+      "bytes": 171
+    },
+    {
+      "path": "02_代码/benchmarks/FaultInjector/lock_helper.py",
+      "sha256": "76236a9687867b614c7ff899afcc8bee75d927a7e3e67103fc82be0a2a98220d",
+      "bytes": 1093
+    },
+    {
+      "path": "02_代码/benchmarks/FaultInjector/run_faults.py",
+      "sha256": "ea99eb3bb47cedc95d09f348fc05bfcd1cdc9b6a11290068e954ad846df623a2",
+      "bytes": 24277
+    },
+    {
+      "path": "02_代码/benchmarks/FaultInjector/verify_and_summarize.py",
+      "sha256": "ba34c8d3869d8d95e5cb3b8703a5d7c6c03dbbd28bc74e940194f5350a0f9d4b",
+      "bytes": 11835
+    },
+    {
+      "path": "02_代码/benchmarks/Runner/protocol.json",
+      "sha256": "ec1b7f1cad9900c9b38e6a555eb0ea435306828210e2f528b7c2035b3a622a29",
+      "bytes": 1647
+    },
+    {
+      "path": "02_代码/benchmarks/Runner/run_performance.py",
+      "sha256": "1d24775957c3554e0807384f9225258e0c2cd3371ab8680a2ad49b8133c38dc3",
+      "bytes": 5073
+    },
+    {
+      "path": "02_代码/data_preparation/build_xlsx.mjs",
+      "sha256": "dfe744a30a6f8e222e93430132dacd485b37569ab78eeb39166efe76ab1a3f0b",
+      "bytes": 1593
+    },
+    {
+      "path": "02_代码/data_preparation/offline_rebuild.py",
+      "sha256": "4655acb99d4d867fd8b516f72c9ca74c638198d46d2bb9975c215fdff083fdf1",
+      "bytes": 10842
+    },
+    {
+      "path": "02_代码/data_preparation/prepare_data.py",
+      "sha256": "4f27767617e25a1d2ecc19131cee108e3a4c1bdb72493cd870d356b05fe0b672",
+      "bytes": 24661
+    },
+    {
+      "path": "02_代码/data_preparation/verify_fixtures.py",
+      "sha256": "c92395fed91ee67580596b0b9889ded76f40e97afd80b7cb4bb29171429bb2f4",
+      "bytes": 3448
+    },
+    {
+      "path": "02_代码/requirements.lock.txt",
+      "sha256": "d6bfb171b6f1c5d20692a6603f54a63a66cdc70905cd85a8f2e50589b45f4920",
+      "bytes": 239
+    },
+    {
+      "path": "02_代码/run_all.ps1",
+      "sha256": "2eb5dbaddb69129e43fb57518d6b24cf0ff6226123fafe8f621407ec5c2a7793",
+      "bytes": 9560
+    },
+    {
+      "path": "02_代码/scripts/analyze_results.py",
+      "sha256": "888bf399f5dce6202209e309fea4063251957149961e86463d38f6a039230f89",
+      "bytes": 22829
+    },
+    {
+      "path": "02_代码/scripts/audit_panel_alignment.py",
+      "sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76",
+      "bytes": 39364
+    },
+    {
+      "path": "02_代码/scripts/make_figures.py",
+      "sha256": "b23330b030265d6cccd870bb2512d36e036f6db1d3588a610d7e6a7d796b0eeb",
+      "bytes": 9846
+    },
+    {
+      "path": "02_代码/scripts/run_correctness.py",
+      "sha256": "9d6dafd1401efbcc6dd10b8fd94c49c2e43c7857eab97a3bada64bce4e9f36ef",
+      "bytes": 8999
+    },
+    {
+      "path": "02_代码/scripts/verify_release.py",
+      "sha256": "7a5ba777e4e959e5e22c31a1b48b284b4ad178a67369f1531ba51f681551a749",
+      "bytes": 8175
+    },
+    {
+      "path": "02_代码/完整源代码/baseline/MonolithBaseline/StaticFactory.cs",
+      "sha256": "0ae50d8b3b7585fd26d4d81619704b954d8ca1fc443d4e9ab4729bdb85658bb6",
+      "bytes": 285
+    },
+    {
+      "path": "02_代码/完整源代码/build.ps1",
+      "sha256": "1da50f6be0e47d63073cb5afe12892d9be7239a038461bb22b04988b9bb983ae",
+      "bytes": 2837
+    },
+    {
+      "path": "02_代码/完整源代码/build_json.ps1",
+      "sha256": "d0157075651a206c16816651c160d14fb69c3ad040573d54bb54b5cc2cc20b4c",
+      "bytes": 2044
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/CsvPlugin/CsvPlugin.cs",
+      "sha256": "ebfe4d65497333dfcba3c4201fb703a030231bd136c109fc3e0b7a7578f379da",
+      "bytes": 522
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/DocxPlugin/DocxPlugin.cs",
+      "sha256": "e38c5f980dfac5077e29b9176aceefe73928a0b009fef811bac59993f79012e9",
+      "bytes": 526
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/JsonPlugin/JsonPlugin.cs",
+      "sha256": "89aadff0dd87f0d3577bcd500cc19e79409e7bc48b06193f2f68d575b181c8c5",
+      "bytes": 2705
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/PdfPlugin/PdfPlugin.cs",
+      "sha256": "2ac378ff9a7298fbabb175d238b1ab4bbbdc7032727402d8ed1158195a38e43b",
+      "bytes": 522
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/Shared/AdapterHelpers.cs",
+      "sha256": "8d0688e8ea67ebdc5c49c11399e49f19244182893fe3fc81e18025cf87a4bb3e",
+      "bytes": 7275
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/SqlitePlugin/SqlitePlugin.cs",
+      "sha256": "ef0103238f01aeee100aa8466f3c94bc7f4a297cb0a325bc3c7b60414971fd89",
+      "bytes": 608
+    },
+    {
+      "path": "02_代码/完整源代码/plugins/XlsxPlugin/XlsxPlugin.cs",
+      "sha256": "29b41eab7b71b1a68f2d482a2effc46d10aff735611a00c995827efdf9c39e40",
+      "bytes": 526
+    },
+    {
+      "path": "02_代码/完整源代码/requirements-pdf.txt",
+      "sha256": "3ec8922905dc4e3a10c3b46bd7fba023c37ffc309d51c6bed2a13ec3e98177fd",
+      "bytes": 14
+    },
+    {
+      "path": "02_代码/完整源代码/scripts/pdf_bridge.py",
+      "sha256": "ff48b3afdbf467eb9a4ac7835df7a4d85703a96237bb2e156301c8a2418f9bd5",
+      "bytes": 395
+    },
+    {
+      "path": "02_代码/完整源代码/src/Contracts/Contracts.cs",
+      "sha256": "8413f5774492e6df4867854e920e81cdb2bf502fdd9bf95bd48a92d6537023fd",
+      "bytes": 889
+    },
+    {
+      "path": "02_代码/完整源代码/src/Host/Core.cs",
+      "sha256": "4e3ee6e46e3a64a28023047bde358f148fd39493431f9057a8ff67b3b4e741a5",
+      "bytes": 18522
+    },
+    {
+      "path": "02_代码/完整源代码/src/Host/DynamicFactory.cs",
+      "sha256": "eddb740b946a0fb63ffe2a0dfa92f655267bd35a2f51440b9e0872162a40d14a",
+      "bytes": 693
+    },
+    {
+      "path": "02_代码/完整源代码/src/Host/Entry.cs",
+      "sha256": "8af1fb57d715654a85915f8bf901387ea1b72290b1cf2a0776fb054d8d173d5f",
+      "bytes": 463
+    },
+    {
+      "path": "02_代码/完整源代码/src/Persistence/NativeSqlite.cs",
+      "sha256": "a8831d9c7e89c626c81abe369c205bcab3fce3f84640a28f52a9fac5f3281fad",
+      "bytes": 3223
+    },
+    {
+      "path": "02_代码/完整源代码/tests/IntegrationTests/integration.py",
+      "sha256": "13dc44f2515daa47ca457ce6fd1f735c85ca7b9609b1842369f5ca6ad17672cd",
+      "bytes": 4530
+    },
+    {
+      "path": "02_代码/完整源代码/tests/ThrowingPlugin.cs",
+      "sha256": "c0067eecc908babed4e375db958edbc7e873bc90675c0eec06e434c459cd0ad0",
+      "bytes": 435
+    },
+    {
+      "path": "03_数据/base/canonical_ground_truth.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/base/data_manifest.csv",
+      "sha256": "99fe08f7bb54112a045972e358aa12141e80f9fa4aba192e10b84ea2c7019e51",
+      "bytes": 18911
+    },
+    {
+      "path": "03_数据/base/expected_outcomes.json",
+      "sha256": "c25533d7ca999a2b956f2785c000d06a830919ecaeb48a4f6ef9e2c898b3f63b",
+      "bytes": 41772
+    },
+    {
+      "path": "03_数据/base/fixtures/records.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/base/fixtures/records.docx",
+      "sha256": "fc638c8fd905922328fe6e034006e73aa8150319fc285c2c984dc65350d8c8bd",
+      "bytes": 40141
+    },
+    {
+      "path": "03_数据/base/fixtures/records.pdf",
+      "sha256": "5dabc02e10ff44dde3f316c5083d66de9ae63939c2b42aa41c28ea370cb92240",
+      "bytes": 7524
+    },
+    {
+      "path": "03_数据/base/fixtures/records.sqlite",
+      "sha256": "a744896b2af047a32c4eaa138ae784a12d255c483d3507d12ad11a067ef08710",
+      "bytes": 40960
+    },
+    {
+      "path": "03_数据/base/fixtures/records.xlsx",
+      "sha256": "8220c637b5a038fb1afe497e3e0e28924722319d960aa3b6167f7aa83f0a053c",
+      "bytes": 9639
+    },
+    {
+      "path": "03_数据/base/manifest.json",
+      "sha256": "856f66de45c81346da11e3088920b562ab057d7b3e27e3ef9af019ca174073a1",
+      "bytes": 1098
+    },
+    {
+      "path": "03_数据/base/source_lineage.csv",
+      "sha256": "07df3de7829a9c86894d0af678b7f3304767ecc186e2826169b89b22890f4dc1",
+      "bytes": 26972
+    },
+    {
+      "path": "03_数据/base/variants/columns_reordered/manifest.json",
+      "sha256": "959f2f3421352e33126a474c7835a46c3765632f5bc90466bf5eeb3686f9c399",
+      "bytes": 1064
+    },
+    {
+      "path": "03_数据/base/variants/columns_reordered/records.csv",
+      "sha256": "739704f6c842cc655d7307655db76ffd32050cb5155b16be239ad63972cf6c03",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/base/variants/columns_reordered/records.docx",
+      "sha256": "292b21b01054c1a12fff537924af4006f623de9fe68fea33c8a78d082e0a0e28",
+      "bytes": 40084
+    },
+    {
+      "path": "03_数据/base/variants/columns_reordered/records.pdf",
+      "sha256": "d99147638f9dc697d305000b6c89281402d910dfe482bedf59beab298e27d04f",
+      "bytes": 7536
+    },
+    {
+      "path": "03_数据/base/variants/columns_reordered/records.sqlite",
+      "sha256": "f5285614f2430477056806cafc0c27f7b3f3f79e8c77a01652093d502480a90c",
+      "bytes": 40960
+    },
+    {
+      "path": "03_数据/base/variants/columns_reordered/records.xlsx",
+      "sha256": "f94ef863ecf11d7f2474b12a2e00d574ae01101fdd2673a6139f45eaf6c966fa",
+      "bytes": 9756
+    },
+    {
+      "path": "03_数据/base/variants/cross_file_conflict/first.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/base/variants/cross_file_conflict/manifest.json",
+      "sha256": "971630fc8eec16dbc0379dda699778215e56643b978de1d567d65577c0764f95",
+      "bytes": 481
+    },
+    {
+      "path": "03_数据/base/variants/cross_file_conflict/second.xlsx",
+      "sha256": "ac40507adec3855b64a3a542cfa233c35ecea44d56abfa3d6b76102aad196b08",
+      "bytes": 1981
+    },
+    {
+      "path": "03_数据/base/variants/cross_file_idempotent/first.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/base/variants/cross_file_idempotent/manifest.json",
+      "sha256": "36a8567df18a3c38bc026b42282e15e6f8b3c120bab5c4b66995516077b5bb8b",
+      "bytes": 494
+    },
+    {
+      "path": "03_数据/base/variants/cross_file_idempotent/second.xlsx",
+      "sha256": "aeb90a1d8f4fc6cb8903a2a25ce1c1c6b2b6f67e053df1a34b3b9b34f47ba2ca",
+      "bytes": 1982
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_conflict/manifest.json",
+      "sha256": "a6344136c0df6f814eaff84fa3a7b5b2ee1857978edee24f42f34a4f81d9ff50",
+      "bytes": 1071
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_conflict/records.csv",
+      "sha256": "da68b3d24d968eca2f3994e43c052af8cd46ed095832679db5a8a4402008c5dd",
+      "bytes": 27288
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_conflict/records.docx",
+      "sha256": "d1e4ad2b27e998fd5d7e03e0743fa1c45379e48c2f7e7d8a0d41564e40ee80b2",
+      "bytes": 40196
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_conflict/records.pdf",
+      "sha256": "b99efd1cfbb4ae57a77038b9fa0a749e900a2811460c281af753b6673aaf5fc1",
+      "bytes": 7583
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_conflict/records.sqlite",
+      "sha256": "c9b1c4993f05a4948daca1fb1a07230a7cf15990ab9729cedacedf17d213bfdb",
+      "bytes": 40960
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_conflict/records.xlsx",
+      "sha256": "375c1f0733c09aa00c431d866d64013dd70e63f60509b2590a17f52567c92511",
+      "bytes": 9714
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_same_value/manifest.json",
+      "sha256": "33d97637ad712869ff58a591d93d1a6414e639eeffa6dbef1c8b11b3444e0a54",
+      "bytes": 1073
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_same_value/records.csv",
+      "sha256": "57b5309515352db9672c9562ecc5f2db7c2fa91a1e344fe6a5df14fc928440bd",
+      "bytes": 27288
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_same_value/records.docx",
+      "sha256": "e1510b5457c2c1a3d2b7b578bb70aa6f58ffb4b89d0a4190f8be83805299e0e8",
+      "bytes": 40196
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_same_value/records.pdf",
+      "sha256": "f490bce7827ab2f37be02705930163f450e26881fa8eeaffdd231e999472637e",
+      "bytes": 7583
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_same_value/records.sqlite",
+      "sha256": "b353a5eecdf0371618c773f754c79fba7485445c6d8ff6aae30a2d6ec8ed28a8",
+      "bytes": 40960
+    },
+    {
+      "path": "03_数据/base/variants/duplicate_id_same_value/records.xlsx",
+      "sha256": "79e77baf3583e1fe9ea31e29aac967d9ee7c75ae479f2af3f80666b682d97f56",
+      "bytes": 9714
+    },
+    {
+      "path": "03_数据/base/variants/explicit_de-DE/manifest.json",
+      "sha256": "3e68cc5ac4cbcf6c85f38ff32790fae8071712d1e9119e660481083bd95015bd",
+      "bytes": 1041
+    },
+    {
+      "path": "03_数据/base/variants/explicit_de-DE/records.csv",
+      "sha256": "ee886c8dfb83768dd71732f7117954e32eacdecaf5c696582827b2bcb125aa5a",
+      "bytes": 27648
+    },
+    {
+      "path": "03_数据/base/variants/explicit_de-DE/records.docx",
+      "sha256": "02bc753fc9fb5870ea59dc44ffca678e15718caeaf1c5156c28afc7d40c7f834",
+      "bytes": 40145
+    },
+    {
+      "path": "03_数据/base/variants/explicit_de-DE/records.pdf",
+      "sha256": "f36d913bda30359237ebb5a6897c72b05a4f89978bc7ad0f897d881281177eb8",
+      "bytes": 7535
+    },
+    {
+      "path": "03_数据/base/variants/explicit_de-DE/records.sqlite",
+      "sha256": "c15815c3cc74a38552a3aa157c3a909352cab9836e753ad3849e6da93f4ca439",
+      "bytes": 40960
+    },
+    {
+      "path": "03_数据/base/variants/explicit_de-DE/records.xlsx",
+      "sha256": "944cb827aa17160d9287f177e66d05b500c185467d98532a208a36d036b76d6e",
+      "bytes": 9643
+    },
+    {
+      "path": "03_数据/base/variants/extra_column/manifest.json",
+      "sha256": "3d952c726485f7f5410a309b64bc8c1d21b10867e3f74d971aac48242202214f",
+      "bytes": 1059
+    },
+    {
+      "path": "03_数据/base/variants/extra_column/records.csv",
+      "sha256": "5d610120d15917f9dfcb4b2dd7803193fd42d460b4e19e92df5c8da90c17bd85",
+      "bytes": 32957
+    },
+    {
+      "path": "03_数据/base/variants/extra_column/records.docx",
+      "sha256": "3c818793ea77eca567f9da7db189de40ea645719f8156aea5933f335aa7bc715",
+      "bytes": 40188
+    },
+    {
+      "path": "03_数据/base/variants/extra_column/records.pdf",
+      "sha256": "4cefffdab66b76b711da93c407ed6e2a3fe953df9e6deff224d3bfac3f19d954",
+      "bytes": 7679
+    },
+    {
+      "path": "03_数据/base/variants/extra_column/records.sqlite",
+      "sha256": "5b0bfa55edfea0c4547d18f6d07f81f606d230681d71316fc72238bcda751e1c",
+      "bytes": 45056
+    },
+    {
+      "path": "03_数据/base/variants/extra_column/records.xlsx",
+      "sha256": "31e776dc7ee1b6ceb64a46f5ae13afd73892ecebd0e10e8a96ea3764ce9d306f",
+      "bytes": 10596
+    },
+    {
+      "path": "03_数据/base/variants/missing_required_value/manifest.json",
+      "sha256": "a9541e0628831574c594c2cdce89e2f03da0b1de4e1902fdf516b71514c46d29",
+      "bytes": 1072
+    },
+    {
+      "path": "03_数据/base/variants/missing_required_value/records.csv",
+      "sha256": "6e98d223de7330331fafd85d21d9476e9c844435397a558aebf15b6dfaf1c443",
+      "bytes": 25767
+    },
+    {
+      "path": "03_数据/base/variants/missing_required_value/records.docx",
+      "sha256": "7ac17b21e544ff6ccf455770435c6cedab90ac4ad55aba0b04f061ecaadc311f",
+      "bytes": 39171
+    },
+    {
+      "path": "03_数据/base/variants/missing_required_value/records.pdf",
+      "sha256": "6ffbca7524012e91de9b33ad0e30db9712dfd2fdaa2f0330c6f4163642c4a393",
+      "bytes": 6426
+    },
+    {
+      "path": "03_数据/base/variants/missing_required_value/records.sqlite",
+      "sha256": "d925ebc3f3e2147967907ed210ae7a3c333f4fd47dd815947d93b9433fac3928",
+      "bytes": 36864
+    },
+    {
+      "path": "03_数据/base/variants/missing_required_value/records.xlsx",
+      "sha256": "48909de19030915475e60da0826b36f602b82aa3390508f6af3803239bfedcf6",
+      "bytes": 8051
+    },
+    {
+      "path": "03_数据/base/variants/truncated/csv_manifest.json",
+      "sha256": "83ec96a1db63bb57cecc3fbce39b72b2ffe09ea062163575ba99509be388e03c",
+      "bytes": 219
+    },
+    {
+      "path": "03_数据/base/variants/truncated/docx_manifest.json",
+      "sha256": "8dfd461d0ea212cd5926a34c9ed6f82e55deabea3d07f6973253979f39c30d7f",
+      "bytes": 220
+    },
+    {
+      "path": "03_数据/base/variants/truncated/pdf_manifest.json",
+      "sha256": "ffe9e4d08e466c96275f23fc14e456d35872046fda22b75723217f51b1a185ee",
+      "bytes": 219
+    },
+    {
+      "path": "03_数据/base/variants/truncated/records.csv",
+      "sha256": "fea99939b3775ea597335b6459b0a650e61160d8cbe729c31d3c938308a0b0b2",
+      "bytes": 27069
+    },
+    {
+      "path": "03_数据/base/variants/truncated/records.docx",
+      "sha256": "da4387acb86f2395fb1b85fc2281c2e1d79c651e5200500f3a903a0c2d7b0deb",
+      "bytes": 20070
+    },
+    {
+      "path": "03_数据/base/variants/truncated/records.pdf",
+      "sha256": "04b937d177b57d7b6a54614b94c7f77467264210967f7b7f0075c15c850f12a2",
+      "bytes": 3762
+    },
+    {
+      "path": "03_数据/base/variants/truncated/records.sqlite",
+      "sha256": "55341dde660ca478c5279d3422ef1cad7931a8b94a80f6f884ca8920002595dc",
+      "bytes": 20480
+    },
+    {
+      "path": "03_数据/base/variants/truncated/records.xlsx",
+      "sha256": "01675963c9bed30f1d620dd6540f74719a0ae6d72577b8d75325e7c1fd4c85b9",
+      "bytes": 4819
+    },
+    {
+      "path": "03_数据/base/variants/truncated/sqlite_manifest.json",
+      "sha256": "601f22f5193d268306da007c5753f110701037568029509a09cd598bee3cb782",
+      "bytes": 222
+    },
+    {
+      "path": "03_数据/base/variants/truncated/xlsx_manifest.json",
+      "sha256": "e780cc08d946cde4eb2710926de9e2b84b14d91300ad414e6030944fbbbf8e83",
+      "bytes": 220
+    },
+    {
+      "path": "03_数据/base/variants/utf16/manifest.json",
+      "sha256": "a3115a3989d4729a15f68ae9144e3beccacd2067e9c339aaacff028e5c081f16",
+      "bytes": 508
+    },
+    {
+      "path": "03_数据/base/variants/utf16/records.csv",
+      "sha256": "b08ead97cfd0977457d2015df540625329dbfcfc5abaa18226f113a6bf49deae",
+      "bytes": 54370
+    },
+    {
+      "path": "03_数据/base/variants/utf16_wrong_encoding/manifest.json",
+      "sha256": "fab4caa92a00c3e72a53d915d3819d75552ba224bfc451d8aea1e46a6d1755bf",
+      "bytes": 525
+    },
+    {
+      "path": "03_数据/base/variants/utf16_wrong_encoding/records.csv",
+      "sha256": "b08ead97cfd0977457d2015df540625329dbfcfc5abaa18226f113a6bf49deae",
+      "bytes": 54370
+    },
+    {
+      "path": "03_数据/base/variants/utf8_bom/manifest.json",
+      "sha256": "a372c11425897efff89ac48c7df2f4b2eea4dfc6416fb519aa3e216d2d2584cf",
+      "bytes": 514
+    },
+    {
+      "path": "03_数据/base/variants/utf8_bom/records.csv",
+      "sha256": "8cc4278874bbf3ceb951063207d07a528740236d8a6e2e2d597c87895e4a2954",
+      "bytes": 27187
+    },
+    {
+      "path": "03_数据/data_manifest.csv",
+      "sha256": "b506e021ee1c03d70a07d2b4da7ae95b5ee71388e12a6f9f0fdcd2468b9de582",
+      "bytes": 47199
+    },
+    {
+      "path": "03_数据/holdout/acquisition_receipt.json",
+      "sha256": "e0d634bcf264fc9e619e195cb5c54f88f2f3248643a2f42ee7a120e3c7d25570",
+      "bytes": 996
+    },
+    {
+      "path": "03_数据/holdout/canonical_ground_truth.csv",
+      "sha256": "f8cefb369b85c0556f2039061731dc0bae3c0c3b9f3ef6c602880698d4f4d833",
+      "bytes": 16582
+    },
+    {
+      "path": "03_数据/holdout/data_manifest.csv",
+      "sha256": "e88fc61f2ff9cabe0301631d27084c0d82929f6470b092e40eb4f1b0ce82040a",
+      "bytes": 22616
+    },
+    {
+      "path": "03_数据/holdout/expected_outcomes.json",
+      "sha256": "d4bced65020f9fcf462ac78c4712fe68694a90f3e9ea5d00193d79d8676a1660",
+      "bytes": 49356
+    },
+    {
+      "path": "03_数据/holdout/first_evaluation_receipt.json",
+      "sha256": "e6f3543aa123d1a8bcad5b2187b72efce26a0bf439172cdc24b96ee4427e94a2",
+      "bytes": 942
+    },
+    {
+      "path": "03_数据/holdout/fixtures/records.csv",
+      "sha256": "f8cefb369b85c0556f2039061731dc0bae3c0c3b9f3ef6c602880698d4f4d833",
+      "bytes": 16582
+    },
+    {
+      "path": "03_数据/holdout/fixtures/records.docx",
+      "sha256": "f1efd9edf1f20f067b0250e9f146c20832e91b2903e98e5422714b1f34030e18",
+      "bytes": 38505
+    },
+    {
+      "path": "03_数据/holdout/fixtures/records.json",
+      "sha256": "3df0f2118d7fadfaaadd157032c3a521148c5989ec8557cb12c39ee3c02c31b7",
+      "bytes": 34758
+    },
+    {
+      "path": "03_数据/holdout/fixtures/records.pdf",
+      "sha256": "bd45d33d201a3f1e3d9d0804a38ef67caaff59452054521f8c8e86200945d774",
+      "bytes": 4496
+    },
+    {
+      "path": "03_数据/holdout/fixtures/records.sqlite",
+      "sha256": "3694d36a07ab1e08617b6b40abfe53776d75a73b8c213e32f8744c25d7b78a6c",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/fixtures/records.xlsx",
+      "sha256": "eee8d176559f04b21ef3657c91ef7e002f2508b8e51224a4a5de2810ba67dd7f",
+      "bytes": 5572
+    },
+    {
+      "path": "03_数据/holdout/generator_release.json",
+      "sha256": "86a21d1e1b13aa0afe3e3e43537d8f138fd172c863b83bf0ce2d14ab74dd691f",
+      "bytes": 581
+    },
+    {
+      "path": "03_数据/holdout/generator_sources_frozen/prepare_data.py",
+      "sha256": "4f27767617e25a1d2ecc19131cee108e3a4c1bdb72493cd870d356b05fe0b672",
+      "bytes": 24661
+    },
+    {
+      "path": "03_数据/holdout/holdout_untouched.json",
+      "sha256": "fec9ddd5586a9e951374cb1304a2385b7973aa64eba553dd5b867690ba3290ae",
+      "bytes": 181
+    },
+    {
+      "path": "03_数据/holdout/manifest.json",
+      "sha256": "ed15c3416e846e92cfadd5efc948a29534fdc7f8102fca168dde474efb81aab9",
+      "bytes": 1243
+    },
+    {
+      "path": "03_数据/holdout/source_lineage.csv",
+      "sha256": "557337ea7023b0a6b33aaff03f4f6efd8d50a01420d6ed89ef4117994caf1282",
+      "bytes": 14721
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/manifest.json",
+      "sha256": "db200cfaf164df281fbe0f383175c3f89f55a24ffcb4cd01830d36e49dfd5bb3",
+      "bytes": 1200
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/records.csv",
+      "sha256": "09000dcd261627776c8f86a86a4fc2db27185d8c509d997e0db933bb38eab0be",
+      "bytes": 16582
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/records.docx",
+      "sha256": "b6f8e1bee683356a6ff3c5216e56c817ab7774eee1fa0f719af7809d5db41abb",
+      "bytes": 38419
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/records.json",
+      "sha256": "7e035af839690143343b78fedf9181a0aa5b3462a0581e6cb2569c1998287384",
+      "bytes": 34758
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/records.pdf",
+      "sha256": "e3b6601b113ea01b134d39ddd45f7e5c506c88f9fdb394f397d14bfb100dde68",
+      "bytes": 4480
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/records.sqlite",
+      "sha256": "0c83610fae4e1f51ac5924869c33ae7a516678f73906d4dd92dfa1989fec4756",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/variants/columns_reordered/records.xlsx",
+      "sha256": "8664699a9450e21f3469fb73ea948532a3b498b5e7ced327293d4f5f4665326e",
+      "bytes": 5623
+    },
+    {
+      "path": "03_数据/holdout/variants/cross_file_conflict/first.csv",
+      "sha256": "f8cefb369b85c0556f2039061731dc0bae3c0c3b9f3ef6c602880698d4f4d833",
+      "bytes": 16582
+    },
+    {
+      "path": "03_数据/holdout/variants/cross_file_conflict/manifest.json",
+      "sha256": "d7f90441c967336100d0b415ab72e03534b07bdd52de99fbbb289ecd28e86dfa",
+      "bytes": 481
+    },
+    {
+      "path": "03_数据/holdout/variants/cross_file_conflict/second.xlsx",
+      "sha256": "972e2d486933526d31a12176f190e7ac9f9a9812af5aa13c839eb2f4f95aa382",
+      "bytes": 1994
+    },
+    {
+      "path": "03_数据/holdout/variants/cross_file_idempotent/first.csv",
+      "sha256": "f8cefb369b85c0556f2039061731dc0bae3c0c3b9f3ef6c602880698d4f4d833",
+      "bytes": 16582
+    },
+    {
+      "path": "03_数据/holdout/variants/cross_file_idempotent/manifest.json",
+      "sha256": "83021a80eb50d255213e2c27e8cc7bf52e716802356003d65636737f750a936c",
+      "bytes": 494
+    },
+    {
+      "path": "03_数据/holdout/variants/cross_file_idempotent/second.xlsx",
+      "sha256": "841a0106b30fda5c7f139e42fb682c242dc8bc1cb6aea70f65912d28a07b8f3c",
+      "bytes": 1995
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/manifest.json",
+      "sha256": "d7b67ad950ba0e320c19ac1c2b11c43673048fc94f0662fdff53cad388802848",
+      "bytes": 1207
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/records.csv",
+      "sha256": "b3001233ceb3e09bb004150939eb55f00d5e9c2753a201b3fb9f5158e31fba94",
+      "bytes": 16720
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/records.docx",
+      "sha256": "53aaddf23ae79a694868769d8d5b3dbf9aa93e46086807c4bb8fdd474a7dae05",
+      "bytes": 38517
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/records.json",
+      "sha256": "528f3dba1f3db9bd24ea2b401352f3495f6e8c72cc0501ade8e0985289c82ea7",
+      "bytes": 35048
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/records.pdf",
+      "sha256": "0d580ddde7e109b7bb9b15b6661819bd33fbcacadcb6c49901bbdbad7ba02a5d",
+      "bytes": 4511
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/records.sqlite",
+      "sha256": "15dd761b1e26eeeddff52cb49685832b6f85265adcd577867d8ec7a4b2dc2886",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_conflict/records.xlsx",
+      "sha256": "cc82cd846124f6a9e4240ff8e13313df28354ec28eaa80911c9028f32fea03b8",
+      "bytes": 5604
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/manifest.json",
+      "sha256": "1aeb4ac896373ea488f8b531912163b214c5e88af2ef8eeae528b7ef52a40976",
+      "bytes": 1209
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/records.csv",
+      "sha256": "9da89190bf1f7a63727652427894484294c816c0f111fa75f64b536995e63c98",
+      "bytes": 16720
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/records.docx",
+      "sha256": "703f334a65cc31e01570aeee49e37e897e1c0ffc62fecc395da945f6f259dde6",
+      "bytes": 38517
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/records.json",
+      "sha256": "4436625e80d7374d2bda5edd42855f8de2252e7cc3feec282b136bb69fd038cb",
+      "bytes": 35048
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/records.pdf",
+      "sha256": "bbfdfc38c8fe999e61caf319a76e91ed1990b79d70a5a3636d22e28a0dd6f03b",
+      "bytes": 4512
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/records.sqlite",
+      "sha256": "59c755ffe5dfebb21231d1ce1447e8f97a4d1cfdb070e24afefe5aa685e755b9",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/variants/duplicate_id_same_value/records.xlsx",
+      "sha256": "525969c14692df614a8793aa03aa8215f10584813aa87de38c651436e443d686",
+      "bytes": 5604
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/manifest.json",
+      "sha256": "83bc5832b569ddce0b5ac2c93fa149414865e33db4e246751d48aad620c9b5cb",
+      "bytes": 1173
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/records.csv",
+      "sha256": "f8cefb369b85c0556f2039061731dc0bae3c0c3b9f3ef6c602880698d4f4d833",
+      "bytes": 16582
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/records.docx",
+      "sha256": "f1efd9edf1f20f067b0250e9f146c20832e91b2903e98e5422714b1f34030e18",
+      "bytes": 38505
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/records.json",
+      "sha256": "3df0f2118d7fadfaaadd157032c3a521148c5989ec8557cb12c39ee3c02c31b7",
+      "bytes": 34758
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/records.pdf",
+      "sha256": "bd45d33d201a3f1e3d9d0804a38ef67caaff59452054521f8c8e86200945d774",
+      "bytes": 4496
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/records.sqlite",
+      "sha256": "3694d36a07ab1e08617b6b40abfe53776d75a73b8c213e32f8744c25d7b78a6c",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/variants/explicit_de-DE/records.xlsx",
+      "sha256": "eee8d176559f04b21ef3657c91ef7e002f2508b8e51224a4a5de2810ba67dd7f",
+      "bytes": 5572
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/manifest.json",
+      "sha256": "4f62e6914d09bc86dfe8451a5ea64b78231c6639e73b43abd70b32bddde99a90",
+      "bytes": 1195
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/records.csv",
+      "sha256": "96854ac01a23e3d8d05a28e72aa40274ec5f513321428317ca2da600ef357b2d",
+      "bytes": 19475
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/records.docx",
+      "sha256": "707e58a6f6c04b97c6d7dce64bc4e10cff36ab98b61c461ce112af71a4c64ce9",
+      "bytes": 38531
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/records.json",
+      "sha256": "f159ae245bdd1dbb2bccb281f2951563a9e4ff6dcdd2d09c4c3aea74d14aebb8",
+      "bytes": 40518
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/records.pdf",
+      "sha256": "4b24e00c1626c139a0bcec5dc42f09161570b956740385fe10ca3c34906285a3",
+      "bytes": 4625
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/records.sqlite",
+      "sha256": "8864848729eee75637337f28f422a3e48cd3e484ec8f37230f00bcd9ca342bff",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/variants/extra_column/records.xlsx",
+      "sha256": "440a4e7172e59e7c16abc1b1794f639b72658093f2f6a13ceaa577acbd6cc865",
+      "bytes": 6017
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/manifest.json",
+      "sha256": "cd264d2aa4129656b7f00797d8f5ac7f27b2d0d2ee25a2fc35e4594fa2b54b03",
+      "bytes": 1208
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/records.csv",
+      "sha256": "04e246f5244ad195696c283931301023675b910fe6efbf843d0cfcc2b3289915",
+      "bytes": 16187
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/records.docx",
+      "sha256": "12df4eb73393384152093e55c097241d73c6f4bf9c79b32ba04af1f9bade48a8",
+      "bytes": 38055
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/records.json",
+      "sha256": "7be1453f0a757ba3f0183234260920ae51f1f1a7595dfeb28e0f6ae8e14d7355",
+      "bytes": 32329
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/records.pdf",
+      "sha256": "dc5d9ee7334ce0852a7b6c6a8d97022eea366a9c6440f5bbdd2ce866b01c89a5",
+      "bytes": 4092
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/records.sqlite",
+      "sha256": "ac0232f4d78844f399718666925996b5b8753534a7ea0a254a6633cbb6b25e55",
+      "bytes": 28672
+    },
+    {
+      "path": "03_数据/holdout/variants/missing_required_value/records.xlsx",
+      "sha256": "cfcd69c232316dee71c692221b027cd1ccde3338bb5e833d990483263198cf5a",
+      "bytes": 4940
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/csv_manifest.json",
+      "sha256": "83ec96a1db63bb57cecc3fbce39b72b2ffe09ea062163575ba99509be388e03c",
+      "bytes": 219
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/docx_manifest.json",
+      "sha256": "8dfd461d0ea212cd5926a34c9ed6f82e55deabea3d07f6973253979f39c30d7f",
+      "bytes": 220
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/json_manifest.json",
+      "sha256": "5ddf60dc4e5d713f2ecf500b6f034fddc8d3b50d3ce85bf98a7cceba1764deb3",
+      "bytes": 220
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/pdf_manifest.json",
+      "sha256": "ffe9e4d08e466c96275f23fc14e456d35872046fda22b75723217f51b1a185ee",
+      "bytes": 219
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/records.csv",
+      "sha256": "4dd5506c0478f4c9d6e9c514cf6fbb336f6494ee8c5ebf8a07bbecfba163746f",
+      "bytes": 16449
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/records.docx",
+      "sha256": "e818dbe6b38e32ede0f91e5e9efe829fabff657bd4f841c95c2e362db0b07ec3",
+      "bytes": 19252
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/records.json",
+      "sha256": "9004eaa9c4efe4633096b0f0627ba64baee1a34e9e300cfffc83d4fc648fcfa4",
+      "bytes": 17379
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/records.pdf",
+      "sha256": "ae78a5ecd2198517695c24b9f604c3069cea3f4498935a8836b180dcebc60808",
+      "bytes": 2248
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/records.sqlite",
+      "sha256": "157d30f3175b20912db0485d47426189548f152b0ea8b8eb342334564b1aea2d",
+      "bytes": 14336
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/records.xlsx",
+      "sha256": "d679a0f6ddb9299a544466529745c864f8e9c97d2bacff920973ea5a4d2741e9",
+      "bytes": 2786
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/sqlite_manifest.json",
+      "sha256": "601f22f5193d268306da007c5753f110701037568029509a09cd598bee3cb782",
+      "bytes": 222
+    },
+    {
+      "path": "03_数据/holdout/variants/truncated/xlsx_manifest.json",
+      "sha256": "e780cc08d946cde4eb2710926de9e2b84b14d91300ad414e6030944fbbbf8e83",
+      "bytes": 220
+    },
+    {
+      "path": "03_数据/holdout/variants/utf16/manifest.json",
+      "sha256": "7c365dee6d272213a224dbcb0a422a1af9351abdbc79e0665a5e0bd5f4a84bf3",
+      "bytes": 508
+    },
+    {
+      "path": "03_数据/holdout/variants/utf16/records.csv",
+      "sha256": "9ee36c980350c525ae64ef497ee2c746c15029e930e0cc431661ec716eaac7c8",
+      "bytes": 33166
+    },
+    {
+      "path": "03_数据/holdout/variants/utf16_wrong_encoding/manifest.json",
+      "sha256": "fab4caa92a00c3e72a53d915d3819d75552ba224bfc451d8aea1e46a6d1755bf",
+      "bytes": 525
+    },
+    {
+      "path": "03_数据/holdout/variants/utf16_wrong_encoding/records.csv",
+      "sha256": "9ee36c980350c525ae64ef497ee2c746c15029e930e0cc431661ec716eaac7c8",
+      "bytes": 33166
+    },
+    {
+      "path": "03_数据/holdout/variants/utf8_bom/manifest.json",
+      "sha256": "272b26c0a87f4a4eb7d0970e4d6fb4ef3ea776dd12e4d277f314ab772ce74664",
+      "bytes": 514
+    },
+    {
+      "path": "03_数据/holdout/variants/utf8_bom/records.csv",
+      "sha256": "be6d33d2bc6f36907496adf9edc0001970e1a1174ae58cd6bb8f2ecee2fc8f75",
+      "bytes": 16585
+    },
+    {
+      "path": "03_数据/late_json/canonical_ground_truth.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/late_json/data_manifest.csv",
+      "sha256": "a0e7cbbb39d51273f1040119e26404e0347ee5b5516854b2cbe11222ba84a6e7",
+      "bytes": 6138
+    },
+    {
+      "path": "03_数据/late_json/expected_outcomes.json",
+      "sha256": "789b958529fdd9500f699695311ca01bf4f0d45b4c5aca6a0a465f7b491c7478",
+      "bytes": 13436
+    },
+    {
+      "path": "03_数据/late_json/extension_receipt.json",
+      "sha256": "6457ed80a9cd52eb756bd05948bbfab037e48deb05e9f870e9ec193e7bf4a9c9",
+      "bytes": 378
+    },
+    {
+      "path": "03_数据/late_json/fixtures/records.json",
+      "sha256": "01e81801ae7c425f5393599648f7be2d8a9f39827b50f7bcdfce9d72742ced8c",
+      "bytes": 63600
+    },
+    {
+      "path": "03_数据/late_json/gate_schema_migration.json",
+      "sha256": "a6e8742d53ae4e624179e8b2d0024943d7def17feb774a53b554afd902e4c676",
+      "bytes": 819
+    },
+    {
+      "path": "03_数据/late_json/manifest.json",
+      "sha256": "0bce4457414c97587702d0929e5b78732386a48ea45ca0abd6af8e11841a88eb",
+      "bytes": 259
+    },
+    {
+      "path": "03_数据/late_json/variants/columns_reordered/manifest.json",
+      "sha256": "8ff687cbea706fa42e7b7dedb19bdc4fec99fb967f31988a59830c5f96052c35",
+      "bytes": 261
+    },
+    {
+      "path": "03_数据/late_json/variants/columns_reordered/records.json",
+      "sha256": "ebeb0e4c19c3060d420088a006a4f33738a25a6a3b30d06af5dd388e5663b45d",
+      "bytes": 63600
+    },
+    {
+      "path": "03_数据/late_json/variants/cross_file_conflict/first.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/late_json/variants/cross_file_conflict/manifest.json",
+      "sha256": "cd4f31a3c200a5118538f623c7f1a0b0f017ae516df41fa6d6a8c57391b8f65b",
+      "bytes": 472
+    },
+    {
+      "path": "03_数据/late_json/variants/cross_file_conflict/second.json",
+      "sha256": "bea3629a7996ca525c73c685da1bda7dec3b070f687021407dc6f54318d1e705",
+      "bytes": 2572
+    },
+    {
+      "path": "03_数据/late_json/variants/cross_file_idempotent/first.csv",
+      "sha256": "55e86c0cee2bd5411485fc79957984d65b806d86582dede8fbf71893f117ffd4",
+      "bytes": 27184
+    },
+    {
+      "path": "03_数据/late_json/variants/cross_file_idempotent/manifest.json",
+      "sha256": "5bf7f963e0b72b49e860b4ef75e6f719ba451dceaf311fd067cf441386a4215d",
+      "bytes": 485
+    },
+    {
+      "path": "03_数据/late_json/variants/cross_file_idempotent/second.json",
+      "sha256": "efb063c72dd78c5a189de146b84ace37073ec8cb476e575aa201d354fd23e5c2",
+      "bytes": 2572
+    },
+    {
+      "path": "03_数据/late_json/variants/duplicate_id_conflict/manifest.json",
+      "sha256": "81fba125477dec23295d1cb6d07107e9de1ba71ba3ced28f463b6958e5925764",
+      "bytes": 268
+    },
+    {
+      "path": "03_数据/late_json/variants/duplicate_id_conflict/records.json",
+      "sha256": "a33f42f399ed2e6680ac19d5522208b3478a604a3885feb731186ed8717af245",
+      "bytes": 63856
+    },
+    {
+      "path": "03_数据/late_json/variants/duplicate_id_same_value/manifest.json",
+      "sha256": "24b8fcd9822f05df722037292d1046c8e1d892fbcb7faa07d6efec04c934cd83",
+      "bytes": 270
+    },
+    {
+      "path": "03_数据/late_json/variants/duplicate_id_same_value/records.json",
+      "sha256": "c0c535d12bd169a3c189466e78e03b2e96626f191751468b3a11aea894b67ef5",
+      "bytes": 63856
+    },
+    {
+      "path": "03_数据/late_json/variants/explicit_de-DE/manifest.json",
+      "sha256": "7d2f779c9a10c7811552141da7f5d973d39e9f955815bcbb0fdf81dd539dcad1",
+      "bytes": 254
+    },
+    {
+      "path": "03_数据/late_json/variants/explicit_de-DE/records.json",
+      "sha256": "fa1cd6bff3ed812a51d0f0f9c1cb8c339104f03457664305623cc5fea31b8423",
+      "bytes": 63600
+    },
+    {
+      "path": "03_数据/late_json/variants/extra_column/manifest.json",
+      "sha256": "941543bfd9240745d708c939208cdb1242a15cd3ea2ef55c895db8a6499c8a5e",
+      "bytes": 256
+    },
+    {
+      "path": "03_数据/late_json/variants/extra_column/records.json",
+      "sha256": "ffe01fb8aa3c5d60909fd266c96c602520471ca578f13165293b2d97ca2c78d9",
+      "bytes": 75120
+    },
+    {
+      "path": "03_数据/late_json/variants/missing_required_value/manifest.json",
+      "sha256": "bbb0b32ac8521228eb96146b14ba64197eb63c08ba67dd7013cdecb62b17e7a0",
+      "bytes": 269
+    },
+    {
+      "path": "03_数据/late_json/variants/missing_required_value/records.json",
+      "sha256": "4230e470e0216a3135c71121d2d8792203994d65544035e3a09d8f2279a74801",
+      "bytes": 58109
+    },
+    {
+      "path": "03_数据/late_json/variants/truncated/manifest.json",
+      "sha256": "fb128fe42736c9ea62c8ee4ed8193e8b7d95e900e1b414136d7832632c560cba",
+      "bytes": 256
+    },
+    {
+      "path": "03_数据/late_json/variants/truncated/records.json",
+      "sha256": "383939111be80aeee81befbbafa3ca3cf5e7b00a9e71242c9e6e0f54f8a5824a",
+      "bytes": 31800
+    },
+    {
+      "path": "03_数据/late_json/variants/utf16/manifest.json",
+      "sha256": "c31945642b696b555600ca14bfa5affde0a1431261e3edaed431ee34af388817",
+      "bytes": 250
+    },
+    {
+      "path": "03_数据/late_json/variants/utf16/records.json",
+      "sha256": "e8cf06187ccddaf58d6b5bcd241a28489e84ac8985e6635862e1fd830c59063c",
+      "bytes": 127202
+    },
+    {
+      "path": "03_数据/late_json/variants/utf16_wrong_encoding/manifest.json",
+      "sha256": "26ea0d7e793b57ee43f2bcb84175a2426a5ee5a76ee8b714e849606aae3c6240",
+      "bytes": 267
+    },
+    {
+      "path": "03_数据/late_json/variants/utf16_wrong_encoding/records.json",
+      "sha256": "e8cf06187ccddaf58d6b5bcd241a28489e84ac8985e6635862e1fd830c59063c",
+      "bytes": 127202
+    },
+    {
+      "path": "03_数据/late_json/variants/utf8_bom/manifest.json",
+      "sha256": "bc26c967d09018209e1194a5a3c0d8b56f62439ac887526b69db56fad4b176bd",
+      "bytes": 256
+    },
+    {
+      "path": "03_数据/late_json/variants/utf8_bom/records.json",
+      "sha256": "fcd67972ffdddf9088ed2f9d7543c0094cde7d2029abdf0bb024ae347c7fc737",
+      "bytes": 63603
+    },
+    {
+      "path": "03_数据/protocol_amendments.json",
+      "sha256": "a6383f994de0ef0f87c4f164c23010e59782f4c8b07abe67fbf2f5074611f4fe",
+      "bytes": 562
+    },
+    {
+      "path": "03_数据/protocol_pre_registration.json",
+      "sha256": "49333010e4ea74755802161966032b214f09b5cd935d18cf091a43bdf0612aa9",
+      "bytes": 2839
+    },
+    {
+      "path": "03_数据/raw/base/ai4i2020.csv",
+      "sha256": "dc6630cd9b1f0f853922fad78a1b6436570d3f1ec863f1dd5c4340ac56bc8a8e",
+      "bytes": 522048
+    },
+    {
+      "path": "03_数据/raw/base/raw_manifest.csv",
+      "sha256": "ddfb9eb811c9ab4f584d895bb4e5adcfedd2bdc1a53779b4d201552622f00425",
+      "bytes": 628
+    },
+    {
+      "path": "03_数据/raw/base/TS1.txt",
+      "sha256": "49cae5e9013d8e230698d95f53a98bb77fedfe3c86985b812cf701dcc9ef06d8",
+      "bytes": 904586
+    },
+    {
+      "path": "03_数据/raw/holdout/beijing_pm25.zip",
+      "sha256": "40cdd29c24918e855133dce280ff59779bb0b5852898e05bafcf422a4cc0a175",
+      "bytes": 2010658
+    },
+    {
+      "path": "03_数据/raw/holdout/download_manifest.json",
+      "sha256": "150924a7f8d5badc811e05106ad3e36f6064fc8685f070d198c4f0d063650266",
+      "bytes": 277
+    },
+    {
+      "path": "03_数据/raw/holdout/PRSA_data_2010.1.1-2014.12.31.csv",
+      "sha256": "4127f868775e31b3956522adc0ec75af8937dde6a3896e8beed3a376c6d27f1c",
+      "bytes": 2010494
+    },
+    {
+      "path": "03_数据/raw/holdout/raw_manifest.csv",
+      "sha256": "f242cb6c40c133ce12b95d00b3f7e8d06a1050708df04d3b8f55be49139f5698",
+      "bytes": 722
+    },
+    {
+      "path": "03_数据/source_metadata/metadata_review.json",
+      "sha256": "6ec981d30e22f4a9520a4ff320d71b1a60cdcfa9820f82d3b88bc0ef01c0eafc",
+      "bytes": 2575
+    },
+    {
+      "path": "03_数据/source_metadata/prior_ai4i_page.html",
+      "sha256": "6ee8867c302255f127aeff577577774cb02c6d76107ae62a9937f27ff572c7c2",
+      "bytes": 125683
+    },
+    {
+      "path": "03_数据/source_metadata/prior_CC_BY_4.0.html",
+      "sha256": "58230517b7895aa219ff46a6ed63e67057a1582fb9ea054b16728a8c13525650",
+      "bytes": 48742
+    },
+    {
+      "path": "03_数据/source_metadata/prior_download_manifest.json",
+      "sha256": "60e875c626d21bada632bd0093487b173198b55d0d7e97ee9c43d1b9594278cc",
+      "bytes": 1947
+    },
+    {
+      "path": "03_数据/source_metadata/prior_hydraulic_page.html",
+      "sha256": "81e015fe8c024a2a7312c14e4f57455437357f055135e025925486c2dc2dab49",
+      "bytes": 84168
+    },
+    {
+      "path": "NOTICE.txt",
+      "sha256": "4a4fdcb6bc7173e9206673dac38df0337ccaa69f255e52390d7a6263b6f65462",
+      "bytes": 2002
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "dc15f74d9c3e20b205e6ef0b2d6d457fcf399011b7371cfa3d61b28acfe43a5b",
+      "bytes": 36
+    },
+    {
+      "path": "run_all.ps1",
+      "sha256": "9e75b4960f50da515bb3676c0e92e809b3b40edca26f25daba5112c7e62fc4dc",
+      "bytes": 1226
+    }
+  ]
+}

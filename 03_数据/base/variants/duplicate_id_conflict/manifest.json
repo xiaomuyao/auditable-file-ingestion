@@ -1,0 +1,47 @@
+{
+  "files": [
+    {
+      "path": "records.csv",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    },
+    {
+      "path": "records.xlsx",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    },
+    {
+      "path": "records.sqlite",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    },
+    {
+      "path": "records.docx",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    },
+    {
+      "path": "records.pdf",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    }
+  ],
+  "expected_outcome": "reject_file",
+  "case": "duplicate_id_conflict",
+  "schema": [
+    "record_id",
+    "dataset",
+    "source_category",
+    "field",
+    "unit",
+    "value",
+    "source_locator"
+  ],
+  "expected_final_unique_rows": 0,
+  "case_execution": "Run each manifest against a fresh store. Within each manifest files execute in listed order."
+}

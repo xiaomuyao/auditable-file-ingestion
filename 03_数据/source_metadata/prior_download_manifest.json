@@ -1,0 +1,62 @@
+[
+  {
+    "name": "hydraulic.zip",
+    "url": "https://archive.ics.uci.edu/static/public/447/condition+monitoring+of+hydraulic+systems.zip",
+    "sha256": "24128aad2ee45eea7e6b63ebbd9992cdf25d0483a2cebefbfc13bc69079af1f2",
+    "bytes": 76601704,
+    "retrieved_at": "2026-10-20T07:09:43.396323+00:00",
+    "members": [
+      "CE.txt",
+      "CP.txt",
+      "description.txt",
+      "EPS1.txt",
+      "FS1.txt",
+      "FS2.txt",
+      "profile.txt",
+      "PS1.txt",
+      "PS2.txt",
+      "PS3.txt",
+      "PS4.txt",
+      "PS5.txt",
+      "PS6.txt",
+      "SE.txt",
+      "TS1.txt",
+      "TS2.txt",
+      "TS3.txt",
+      "TS4.txt",
+      "VS1.txt",
+      "documentation.txt"
+    ]
+  },
+  {
+    "name": "ai4i.zip",
+    "url": "https://archive.ics.uci.edu/static/public/601/ai4i+2020+predictive+maintenance+dataset.zip",
+    "sha256": "f601f14294bcf190f9d720676b7f0aea46a26cde9ab8ebc7b4f8174d9d26b252",
+    "bytes": 522170,
+    "retrieved_at": "2026-10-20T07:09:38.044402+00:00",
+    "members": [
+      "ai4i2020.csv"
+    ]
+  },
+  {
+    "name": "hydraulic_page.html",
+    "url": "https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems",
+    "sha256": "81e015fe8c024a2a7312c14e4f57455437357f055135e025925486c2dc2dab49",
+    "bytes": 84168,
+    "retrieved_at": "2026-10-20T07:09:38.069466+00:00"
+  },
+  {
+    "name": "ai4i_page.html",
+    "url": "https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset",
+    "sha256": "6ee8867c302255f127aeff577577774cb02c6d76107ae62a9937f27ff572c7c2",
+    "bytes": 125683,
+    "retrieved_at": "2026-10-20T07:09:38.120628+00:00"
+  },
+  {
+    "name": "CC_BY_4.0.html",
+    "url": "https://creativecommons.org/licenses/by/4.0/legalcode.en",
+    "sha256": "58230517b7895aa219ff46a6ed63e67057a1582fb9ea054b16728a8c13525650",
+    "bytes": 48742,
+    "retrieved_at": "2026-10-20T07:09:37.867999+00:00"
+  }
+]

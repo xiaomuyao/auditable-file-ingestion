@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "path": "records.json",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    }
+  ],
+  "case": "duplicate_id_same_value",
+  "expected_outcome": "reject_file",
+  "expected_final_unique_rows": 0
+}

@@ -1,0 +1,53 @@
+{
+  "sources": [
+    {
+      "title": "Condition monitoring of hydraulic systems",
+      "uci_id": 447,
+      "doi": "10.24432/C5CW21",
+      "category": "public_real",
+      "page": "https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems",
+      "member": "TS1.txt",
+      "selection": "first 120 physical rows whose first tab-separated scalar is finite Decimal; preserve original scalar text",
+      "unit": "degC",
+      "field": "TS1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "official_metadata_verified_on": "2026-10-21",
+      "verification_method": "Official UCI landing-page metadata; data download excluded from this metadata check"
+    },
+    {
+      "title": "AI4I 2020 Predictive Maintenance Dataset",
+      "uci_id": 601,
+      "doi": "10.24432/C5HS5C",
+      "category": "public_synthetic",
+      "page": "https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset",
+      "member": "ai4i2020.csv",
+      "selection": "first 120 CSV data rows whose Torque [Nm] cell is finite Decimal; preserve original scalar text",
+      "unit": "Nm",
+      "field": "Torque",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "official_metadata_verified_on": "2026-10-21",
+      "verification_method": "Official UCI landing-page metadata; data download excluded from this metadata check"
+    },
+    {
+      "title": "Beijing PM2.5",
+      "uci_id": 381,
+      "doi": "10.24432/C5JS49",
+      "category": "public_real",
+      "page": "https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data",
+      "member": "PRSA_data_2010.1.1-2014.12.31.csv",
+      "download": "https://archive.ics.uci.edu/static/public/381/beijing+pm2+5+data.zip",
+      "selection": "first 120 CSV data rows with finite numeric pm2.5, skipping NA; preserve original scalar text; no selection by adapter outcome",
+      "unit": "ug/m3",
+      "field": "pm2.5",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "official_metadata_verified_on": "2026-10-21",
+      "verification_method": "Official UCI landing-page metadata; data download excluded from this metadata check"
+    }
+  ],
+  "license_terms_verified": "CC BY 4.0 permits redistribution and adaptation with attribution, license link and changes indicated.",
+  "primary_license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "local_html_not_fetched": true
+}

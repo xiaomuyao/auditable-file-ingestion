@@ -1,0 +1,13 @@
+{
+  "stage": "repository_generator_release",
+  "created_at_utc": "2026-11-05T03:45:02.671779+00:00",
+  "purpose": "retrospective offline reproduction; this is not the original study freeze",
+  "original_generator_sha256": "8ff8c3278cae2a888e5aacb6d68474f22784db5ac4c4e4b32b0bb7c47e1cfa01",
+  "modifications": "Editorial workflow descriptions removed; scalar selection and fixture-writing algorithms retained.",
+  "generator_files": [
+    {
+      "path": "prepare_data.py",
+      "sha256": "4f27767617e25a1d2ecc19131cee108e3a4c1bdb72493cd870d356b05fe0b672"
+    }
+  ]
+}

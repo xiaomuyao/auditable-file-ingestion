@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "path": "records.json",
+      "decimal_locale": "de-DE",
+      "encoding": "utf-8",
+      "delimiter": ","
+    }
+  ],
+  "case": "explicit_de-DE",
+  "expected_outcome": "accept",
+  "expected_final_unique_rows": 240
+}

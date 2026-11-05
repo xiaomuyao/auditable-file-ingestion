@@ -1,0 +1,2 @@
+using System;using System.Collections.Generic;using System.IO;using Ingestion;
+public sealed class ThrowingPlugin:IFormatPlugin {public string Name{get{return "ThrowingPlugin";}}public string Version{get{return "1.0.0-test";}}public bool CanHandle(string path){return Path.GetExtension(path)==".throw";}public IEnumerable<CanonicalRecord> Parse(ParseContext context){throw new InvalidOperationException("INJECTED_PLUGIN_EXCEPTION");}}

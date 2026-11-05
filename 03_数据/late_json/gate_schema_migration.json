@@ -1,0 +1,14 @@
+{
+  "recorded_at_utc": "2026-10-21T03:03:27.843952+00:00",
+  "earlier_gate_sha256": "05bfe1b4f315f8939c052879a757a21e801c30ef36510fbf9e95cf967e851d0c",
+  "later_schema_gate_sha256": "b4eaa04976f6d61ec7bec72d506b664b6c71da8a3bdd3f833e06592fc151483a",
+  "earlier_hash_matches_preexisting_extension_receipt": true,
+  "source_files_sha256_unchanged": true,
+  "migration_only": [
+    "stage label normalized",
+    "frozen_at_utc alias added",
+    "file paths prefixed with snapshots/base5/"
+  ],
+  "original_serialization": "Python Path.write_text on Windows, CRLF line endings, UTF-8 without BOM",
+  "statement": "Earlier manifest bytes reconstructed from schema-only migrated manifest, verified against the digest already recorded when late JSON was generated. Not presented as a contemporaneous byte-copy."
+}

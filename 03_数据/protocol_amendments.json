@@ -1,0 +1,8 @@
+{
+  "amended_at_utc": "2026-10-21T02:52:33.262206+00:00",
+  "predecessor_protocol_sha256": "49333010e4ea74755802161966032b214f09b5cd935d18cf091a43bdf0612aa9",
+  "before_holdout_download": true,
+  "reason": "Canonical contract clarified before adapter freeze: Decimal.ToString(G29,InvariantCulture) semantics.",
+  "canonical_decimal": "Finite Decimal, fixed notation, remove insignificant fractional trailing zeroes and decimal point, normalize signed zero to 0; selected original string retained in lineage.original_value.",
+  "selection_rules_unchanged": true
+}

@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "path": "first.csv",
+      "encoding": "utf-8",
+      "decimal_locale": "invariant",
+      "delimiter": ","
+    },
+    {
+      "path": "second.json",
+      "encoding": "utf-8",
+      "decimal_locale": "invariant",
+      "delimiter": ","
+    }
+  ],
+  "case": "cross_file_conflict",
+  "expected_file_outcomes": [
+    "accept",
+    "reject_file"
+  ],
+  "expected_final_unique_rows": 240,
+  "expected_second_inserted_rows": 0
+}

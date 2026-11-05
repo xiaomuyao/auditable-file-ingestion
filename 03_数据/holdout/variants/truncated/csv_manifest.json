@@ -1,0 +1,12 @@
+{
+  "files": [
+    {
+      "path": "records.csv",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8",
+      "delimiter": ","
+    }
+  ],
+  "case": "truncated",
+  "expected_outcome": "reject_file"
+}

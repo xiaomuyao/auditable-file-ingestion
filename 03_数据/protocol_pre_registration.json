@@ -1,0 +1,69 @@
+{
+  "registered_at_utc": "2026-10-21T02:48:39.886846+00:00",
+  "schema": [
+    "record_id",
+    "dataset",
+    "source_category",
+    "field",
+    "unit",
+    "value",
+    "source_locator"
+  ],
+  "n_per_source": 120,
+  "base_sources": [
+    "hydraulic",
+    "ai4i"
+  ],
+  "holdout": "holdout",
+  "sources": {
+    "hydraulic": {
+      "title": "Condition monitoring of hydraulic systems",
+      "uci_id": 447,
+      "doi": "10.24432/C5CW21",
+      "category": "public_real",
+      "page": "https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems",
+      "member": "TS1.txt",
+      "selection": "first 120 physical rows whose first tab-separated scalar is finite Decimal; preserve original scalar text",
+      "unit": "degC",
+      "field": "TS1"
+    },
+    "ai4i": {
+      "title": "AI4I 2020 Predictive Maintenance Dataset",
+      "uci_id": 601,
+      "doi": "10.24432/C5HS5C",
+      "category": "public_synthetic",
+      "page": "https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset",
+      "member": "ai4i2020.csv",
+      "selection": "first 120 CSV data rows whose Torque [Nm] cell is finite Decimal; preserve original scalar text",
+      "unit": "Nm",
+      "field": "Torque"
+    },
+    "holdout": {
+      "title": "Beijing PM2.5",
+      "uci_id": 381,
+      "doi": "10.24432/C5JS49",
+      "category": "public_real",
+      "page": "https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data",
+      "member": "PRSA_data_2010.1.1-2014.12.31.csv",
+      "download": "https://archive.ics.uci.edu/static/public/381/beijing+pm2+5+data.zip",
+      "selection": "first 120 CSV data rows with finite numeric pm2.5, skipping NA; preserve original scalar text; no selection by adapter outcome",
+      "unit": "ug/m3",
+      "field": "pm2.5"
+    }
+  },
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_numeric_text": "Original selected scalar strings are retained in canonical truth. Explicit transport-locale variants are derived and expected to normalize to the same decimal value.",
+  "holdout_rules": [
+    "No third-source data bytes may be downloaded or read before final six-adapter plus Host plus PDF-bridge freeze.",
+    "Read only official metadata before final freeze.",
+    "First holdout adapter run timestamp/run ID must be recorded, and no second adaptive run is permitted.",
+    "Observed failures remain results; no post-holdout parser correction."
+  ],
+  "duplicate_contract": {
+    "within_file_same": "reject entire file",
+    "within_file_conflict": "reject entire file",
+    "cross_file_same": "canonical identity idempotent, no extra insertion",
+    "cross_file_conflict": "reject conflicting file atomically; earlier committed file retained"
+  }
+}

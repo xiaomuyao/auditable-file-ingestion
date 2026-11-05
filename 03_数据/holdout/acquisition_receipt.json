@@ -1,0 +1,19 @@
+{
+  "status": "downloaded_selected_no_adapter_run",
+  "started_at_utc": "2026-10-21T03:19:32.487848+00:00",
+  "freeze_manifest_sha256": "e1b838cd10ab600c055b8918c1d0f31b992cd4253ae7c6b9eadfb3227306212b",
+  "freeze_at_utc": "2026-10-21T03:04:19.405538+00:00",
+  "pre_registration_sha256": "49333010e4ea74755802161966032b214f09b5cd935d18cf091a43bdf0612aa9",
+  "preparation_script_sha256": "8ff8c3278cae2a888e5aacb6d68474f22784db5ac4c4e4b32b0bb7c47e1cfa01",
+  "data_downloaded_before_gate": false,
+  "download_finished_at_utc": "2026-10-21T03:19:34.331854+00:00",
+  "download": {
+    "url": "https://archive.ics.uci.edu/static/public/381/beijing+pm2+5+data.zip",
+    "path": "beijing_pm25.zip",
+    "bytes": 2010658,
+    "sha256": "40cdd29c24918e855133dce280ff59779bb0b5852898e05bafcf422a4cc0a175",
+    "retrieved_at_utc": "2026-10-21T03:19:34.113309+00:00"
+  },
+  "raw_member_sha256": "4127f868775e31b3956522adc0ec75af8937dde6a3896e8beed3a376c6d27f1c",
+  "selected_records": 120
+}

@@ -1,0 +1,1082 @@
+[
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=26:col=pm2.5",
+    "value": "129",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0001"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=27:col=pm2.5",
+    "value": "148",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0002"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=28:col=pm2.5",
+    "value": "159",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0003"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=29:col=pm2.5",
+    "value": "181",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0004"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=30:col=pm2.5",
+    "value": "138",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0005"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=31:col=pm2.5",
+    "value": "109",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0006"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=32:col=pm2.5",
+    "value": "105",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0007"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=33:col=pm2.5",
+    "value": "124",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0008"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=34:col=pm2.5",
+    "value": "120",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0009"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=35:col=pm2.5",
+    "value": "132",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0010"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=36:col=pm2.5",
+    "value": "140",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0011"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=37:col=pm2.5",
+    "value": "152",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0012"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=38:col=pm2.5",
+    "value": "148",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0013"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=39:col=pm2.5",
+    "value": "164",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0014"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=40:col=pm2.5",
+    "value": "158",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0015"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=41:col=pm2.5",
+    "value": "154",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0016"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=42:col=pm2.5",
+    "value": "159",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0017"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=43:col=pm2.5",
+    "value": "164",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0018"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=44:col=pm2.5",
+    "value": "170",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0019"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=45:col=pm2.5",
+    "value": "149",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0020"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=46:col=pm2.5",
+    "value": "154",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0021"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=47:col=pm2.5",
+    "value": "164",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0022"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=48:col=pm2.5",
+    "value": "156",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0023"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=49:col=pm2.5",
+    "value": "126",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0024"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=50:col=pm2.5",
+    "value": "90",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0025"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=51:col=pm2.5",
+    "value": "63",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0026"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=52:col=pm2.5",
+    "value": "65",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0027"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=53:col=pm2.5",
+    "value": "55",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0028"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=54:col=pm2.5",
+    "value": "65",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0029"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=55:col=pm2.5",
+    "value": "83",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0030"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=56:col=pm2.5",
+    "value": "91",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0031"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=57:col=pm2.5",
+    "value": "86",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0032"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=58:col=pm2.5",
+    "value": "82",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0033"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=59:col=pm2.5",
+    "value": "86",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0034"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=60:col=pm2.5",
+    "value": "78",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0035"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=61:col=pm2.5",
+    "value": "98",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0036"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=62:col=pm2.5",
+    "value": "107",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0037"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=63:col=pm2.5",
+    "value": "90",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0038"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=64:col=pm2.5",
+    "value": "96",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0039"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=65:col=pm2.5",
+    "value": "95",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0040"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=66:col=pm2.5",
+    "value": "86",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0041"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=67:col=pm2.5",
+    "value": "70",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0042"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=68:col=pm2.5",
+    "value": "61",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0043"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=69:col=pm2.5",
+    "value": "53",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0044"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=70:col=pm2.5",
+    "value": "71",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0045"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=71:col=pm2.5",
+    "value": "72",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0046"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=72:col=pm2.5",
+    "value": "76",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0047"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=73:col=pm2.5",
+    "value": "73",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0048"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=74:col=pm2.5",
+    "value": "79",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0049"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=75:col=pm2.5",
+    "value": "58",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0050"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=76:col=pm2.5",
+    "value": "25",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0051"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=77:col=pm2.5",
+    "value": "26",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0052"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=78:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0053"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=79:col=pm2.5",
+    "value": "26",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0054"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=80:col=pm2.5",
+    "value": "20",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0055"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=81:col=pm2.5",
+    "value": "29",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0056"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=82:col=pm2.5",
+    "value": "26",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0057"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=83:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0058"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=84:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0059"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=85:col=pm2.5",
+    "value": "25",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0060"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=86:col=pm2.5",
+    "value": "29",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0061"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=87:col=pm2.5",
+    "value": "32",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0062"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=88:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0063"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=89:col=pm2.5",
+    "value": "29",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0064"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=90:col=pm2.5",
+    "value": "30",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0065"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=91:col=pm2.5",
+    "value": "30",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0066"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=92:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0067"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=93:col=pm2.5",
+    "value": "26",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0068"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=94:col=pm2.5",
+    "value": "31",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0069"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=95:col=pm2.5",
+    "value": "33",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0070"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=96:col=pm2.5",
+    "value": "29",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0071"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=97:col=pm2.5",
+    "value": "31",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0072"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=98:col=pm2.5",
+    "value": "30",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0073"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=99:col=pm2.5",
+    "value": "34",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0074"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=100:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0075"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=101:col=pm2.5",
+    "value": "25",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0076"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=102:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0077"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=103:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0078"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=104:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0079"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=105:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0080"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=106:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0081"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=107:col=pm2.5",
+    "value": "29",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0082"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=108:col=pm2.5",
+    "value": "36",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0083"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=109:col=pm2.5",
+    "value": "30",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0084"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=110:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0085"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=111:col=pm2.5",
+    "value": "39",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0086"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=112:col=pm2.5",
+    "value": "41",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0087"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=113:col=pm2.5",
+    "value": "33",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0088"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=114:col=pm2.5",
+    "value": "50",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0089"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=115:col=pm2.5",
+    "value": "56",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0090"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=116:col=pm2.5",
+    "value": "59",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0091"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=117:col=pm2.5",
+    "value": "60",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0092"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=118:col=pm2.5",
+    "value": "84",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0093"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=119:col=pm2.5",
+    "value": "106",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0094"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=120:col=pm2.5",
+    "value": "66",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0095"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=121:col=pm2.5",
+    "value": "50",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0096"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=122:col=pm2.5",
+    "value": "56",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0097"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=123:col=pm2.5",
+    "value": "77",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0098"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=124:col=pm2.5",
+    "value": "50",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0099"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=125:col=pm2.5",
+    "value": "44",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0100"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=126:col=pm2.5",
+    "value": "27",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0101"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=127:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0102"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=128:col=pm2.5",
+    "value": "21",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0103"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=129:col=pm2.5",
+    "value": "25",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0104"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=130:col=pm2.5",
+    "value": "20",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0105"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=131:col=pm2.5",
+    "value": "29",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0106"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=132:col=pm2.5",
+    "value": "34",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0107"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=133:col=pm2.5",
+    "value": "42",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0108"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=134:col=pm2.5",
+    "value": "28",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0109"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=135:col=pm2.5",
+    "value": "36",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0110"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=136:col=pm2.5",
+    "value": "48",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0111"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=137:col=pm2.5",
+    "value": "49",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0112"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=138:col=pm2.5",
+    "value": "52",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0113"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=139:col=pm2.5",
+    "value": "56",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0114"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=140:col=pm2.5",
+    "value": "96",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0115"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=141:col=pm2.5",
+    "value": "75",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0116"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=142:col=pm2.5",
+    "value": "105",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0117"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=143:col=pm2.5",
+    "value": "132",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0118"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=144:col=pm2.5",
+    "value": "93",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0119"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/381#PRSA_data_2010.1.1-2014.12.31.csv:row=145:col=pm2.5",
+    "value": "131",
+    "unit": "ug/m3",
+    "field": "pm2.5",
+    "source_category": "public_real",
+    "dataset": "BeijingPM25",
+    "record_id": "B0120"
+  }
+]

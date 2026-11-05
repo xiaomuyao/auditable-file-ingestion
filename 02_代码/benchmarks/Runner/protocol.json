@@ -1,0 +1,23 @@
+{
+  "registered_date": "2026-10-21",
+  "research_question": "What overhead does runtime DLL discovery add to the tested ingestion pipeline relative to statically compiled registration?",
+  "dataset_role": "development public data; deterministic replay workload; holdout excluded from tuning and performance workloads",
+  "primary_format": "CSV",
+  "files_per_run": 12,
+  "records_per_file": [16,128,1024],
+  "total_workload_records": [192,1536,12288],
+  "concurrency": [1,4,8],
+  "independent_pairs_per_condition": 12,
+  "modes": ["dynamic","static"],
+  "independent_unit": "fresh operating-system process; two adjacent executions form a randomized treatment pair",
+  "ordering": "fixed-seed randomized condition/block order, and randomized dynamic/static order within each pair",
+  "random_seed": 20261021,
+  "process_timeout_seconds": 180,
+  "backend": "same local SQLite implementation, transaction policy, validation, parser source, and readback logic",
+  "measurement_scope": "whole-process wall time and Host-reported ingestion time; input preparation excluded; startup/discovery included in process wall time",
+  "latency_unit": "one file through parse/validate/transaction/readback; 12 files per run; within-run P50/P95/P99 are descriptive",
+  "reporting": ["median","IQR","bootstrap 95 percent percentile interval","all observed runs including failures","paired dynamic/static relative wall-time overhead"],
+  "bootstrap_repetitions": 10000,
+  "bootstrap_seed": 20261022,
+  "inference_boundary": "single nonexclusive host, controlled structured CSV workload, 12 fixed replay files, cache not flushed, no production or saturation claim"
+}

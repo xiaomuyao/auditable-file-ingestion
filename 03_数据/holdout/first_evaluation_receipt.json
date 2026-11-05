@@ -1,0 +1,27 @@
+{
+  "partition": "holdout",
+  "started_at_utc": "2026-10-21T03:20:36.229796+00:00",
+  "freeze_manifest_sha256": "e1b838cd10ab600c055b8918c1d0f31b992cd4253ae7c6b9eadfb3227306212b",
+  "frozen_at_utc": "2026-10-21T03:04:19.405538+00:00",
+  "truth_sha256": "f8cefb369b85c0556f2039061731dc0bae3c0c3b9f3ef6c602880698d4f4d833",
+  "source_records": 120,
+  "adapter_tuning_permitted": false,
+  "finished_at_utc": "2026-10-21T03:20:43.114777+00:00",
+  "result_summary": {
+    "partition": "holdout",
+    "dataset_records": 120,
+    "cases": 18,
+    "files": 55,
+    "cases_passed": 18,
+    "file_oracles_passed": 55,
+    "valid_files": 29,
+    "valid_files_accepted": 29,
+    "invalid_files": 26,
+    "invalid_files_detected": 26,
+    "field_comparisons": 23590,
+    "field_matches": 23590,
+    "provenance_complete_files": 55,
+    "finished_at_utc": "2026-10-21T03:20:43.104770+00:00",
+    "unchanged_frozen_code": true
+  }
+}

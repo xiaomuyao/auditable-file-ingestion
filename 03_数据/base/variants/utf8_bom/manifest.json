@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "path": "records.csv",
+      "decimal_locale": "invariant",
+      "encoding": "utf-8-sig",
+      "delimiter": ","
+    }
+  ],
+  "expected_outcome": "accept",
+  "case": "utf8_bom",
+  "schema": [
+    "record_id",
+    "dataset",
+    "source_category",
+    "field",
+    "unit",
+    "value",
+    "source_locator"
+  ],
+  "expected_final_unique_rows": 240,
+  "case_execution": "Run each manifest against a fresh store. Within each manifest files execute in listed order."
+}

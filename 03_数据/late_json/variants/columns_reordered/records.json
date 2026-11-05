@@ -1,0 +1,2162 @@
+[
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=1:col=1",
+    "value": "35.57",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0001"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=2:col=1",
+    "value": "36.156",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0002"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=3:col=1",
+    "value": "37.488",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0003"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=4:col=1",
+    "value": "38.633",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0004"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=5:col=1",
+    "value": "39.461",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0005"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=6:col=1",
+    "value": "40.398",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0006"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=7:col=1",
+    "value": "41.223",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0007"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=8:col=1",
+    "value": "42.043",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0008"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=9:col=1",
+    "value": "42.73",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0009"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=10:col=1",
+    "value": "43.379",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0010"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=11:col=1",
+    "value": "43.992",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0011"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=12:col=1",
+    "value": "44.594",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0012"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=13:col=1",
+    "value": "45.082",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0013"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=14:col=1",
+    "value": "45.574",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0014"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=15:col=1",
+    "value": "45.992",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0015"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=16:col=1",
+    "value": "46.422",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0016"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=17:col=1",
+    "value": "46.762",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0017"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=18:col=1",
+    "value": "47.203",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0018"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=19:col=1",
+    "value": "47.453",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0019"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=20:col=1",
+    "value": "47.762",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0020"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=21:col=1",
+    "value": "48.027",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0021"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=22:col=1",
+    "value": "48.336",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0022"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=23:col=1",
+    "value": "48.535",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0023"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=24:col=1",
+    "value": "48.789",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0024"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=25:col=1",
+    "value": "48.957",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0025"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=26:col=1",
+    "value": "49.117",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0026"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=27:col=1",
+    "value": "49.332",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0027"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=28:col=1",
+    "value": "49.602",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0028"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=29:col=1",
+    "value": "49.719",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0029"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=30:col=1",
+    "value": "49.875",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0030"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=31:col=1",
+    "value": "49.996",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0031"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=32:col=1",
+    "value": "50.133",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0032"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=33:col=1",
+    "value": "50.199",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0033"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=34:col=1",
+    "value": "50.379",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0034"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=35:col=1",
+    "value": "50.437",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0035"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=36:col=1",
+    "value": "50.531",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0036"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=37:col=1",
+    "value": "50.633",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0037"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=38:col=1",
+    "value": "50.797",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0038"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=39:col=1",
+    "value": "50.84",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0039"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=40:col=1",
+    "value": "50.879",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0040"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=41:col=1",
+    "value": "50.965",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0041"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=42:col=1",
+    "value": "51.051",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0042"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=43:col=1",
+    "value": "51.129",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0043"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=44:col=1",
+    "value": "51.211",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0044"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=45:col=1",
+    "value": "51.316",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0045"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=46:col=1",
+    "value": "51.297",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0046"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=47:col=1",
+    "value": "51.371",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0047"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=48:col=1",
+    "value": "51.437",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0048"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=49:col=1",
+    "value": "51.449",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0049"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=50:col=1",
+    "value": "51.488",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0050"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=51:col=1",
+    "value": "51.555",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0051"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=52:col=1",
+    "value": "51.648",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0052"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=53:col=1",
+    "value": "51.703",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0053"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=54:col=1",
+    "value": "51.742",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0054"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=55:col=1",
+    "value": "51.73",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0055"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=56:col=1",
+    "value": "51.793",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0056"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=57:col=1",
+    "value": "51.883",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0057"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=58:col=1",
+    "value": "51.887",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0058"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=59:col=1",
+    "value": "51.891",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0059"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=60:col=1",
+    "value": "51.883",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0060"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=61:col=1",
+    "value": "51.957",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0061"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=62:col=1",
+    "value": "51.98",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0062"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=63:col=1",
+    "value": "51.98",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0063"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=64:col=1",
+    "value": "52.062",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0064"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=65:col=1",
+    "value": "52.07",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0065"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=66:col=1",
+    "value": "52.051",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0066"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=67:col=1",
+    "value": "52.129",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0067"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=68:col=1",
+    "value": "52.102",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0068"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=69:col=1",
+    "value": "52.137",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0069"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=70:col=1",
+    "value": "52.211",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0070"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=71:col=1",
+    "value": "52.316",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0071"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=72:col=1",
+    "value": "52.316",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0072"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=73:col=1",
+    "value": "52.328",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0073"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=74:col=1",
+    "value": "52.402",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0074"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=75:col=1",
+    "value": "52.477",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0075"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=76:col=1",
+    "value": "52.496",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0076"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=77:col=1",
+    "value": "52.555",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0077"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=78:col=1",
+    "value": "52.645",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0078"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=79:col=1",
+    "value": "52.656",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0079"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=80:col=1",
+    "value": "52.789",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0080"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=81:col=1",
+    "value": "52.801",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0081"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=82:col=1",
+    "value": "52.801",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0082"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=83:col=1",
+    "value": "52.828",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0083"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=84:col=1",
+    "value": "52.922",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0084"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=85:col=1",
+    "value": "52.887",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0085"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=86:col=1",
+    "value": "52.91",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0086"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=87:col=1",
+    "value": "52.977",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0087"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=88:col=1",
+    "value": "52.977",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0088"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=89:col=1",
+    "value": "52.969",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0089"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=90:col=1",
+    "value": "52.992",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0090"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=91:col=1",
+    "value": "53.074",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0091"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=92:col=1",
+    "value": "53.082",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0092"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=93:col=1",
+    "value": "53.148",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0093"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=94:col=1",
+    "value": "53.152",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0094"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=95:col=1",
+    "value": "53.191",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0095"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=96:col=1",
+    "value": "53.227",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0096"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=97:col=1",
+    "value": "53.23",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0097"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=98:col=1",
+    "value": "53.219",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0098"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=99:col=1",
+    "value": "53.32",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0099"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=100:col=1",
+    "value": "53.324",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0100"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=101:col=1",
+    "value": "53.219",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0101"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=102:col=1",
+    "value": "53.379",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0102"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=103:col=1",
+    "value": "53.379",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0103"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=104:col=1",
+    "value": "53.418",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0104"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=105:col=1",
+    "value": "53.414",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0105"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=106:col=1",
+    "value": "53.402",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0106"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=107:col=1",
+    "value": "53.391",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0107"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=108:col=1",
+    "value": "53.402",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0108"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=109:col=1",
+    "value": "53.48",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0109"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=110:col=1",
+    "value": "53.566",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0110"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=111:col=1",
+    "value": "53.566",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0111"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=112:col=1",
+    "value": "53.562",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0112"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=113:col=1",
+    "value": "53.621",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0113"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=114:col=1",
+    "value": "53.566",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0114"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=115:col=1",
+    "value": "53.652",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0115"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=116:col=1",
+    "value": "53.621",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0116"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=117:col=1",
+    "value": "53.645",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0117"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=118:col=1",
+    "value": "53.652",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0118"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=119:col=1",
+    "value": "53.746",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0119"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=120:col=1",
+    "value": "53.75",
+    "unit": "degC",
+    "field": "TS1",
+    "source_category": "public_real",
+    "dataset": "Hydraulic",
+    "record_id": "H0120"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=2:col=Torque [Nm]",
+    "value": "42.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0001"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=3:col=Torque [Nm]",
+    "value": "46.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0002"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=4:col=Torque [Nm]",
+    "value": "49.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0003"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=5:col=Torque [Nm]",
+    "value": "39.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0004"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=6:col=Torque [Nm]",
+    "value": "40",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0005"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=7:col=Torque [Nm]",
+    "value": "41.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0006"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=8:col=Torque [Nm]",
+    "value": "42.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0007"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=9:col=Torque [Nm]",
+    "value": "40.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0008"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=10:col=Torque [Nm]",
+    "value": "28.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0009"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=11:col=Torque [Nm]",
+    "value": "28",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0010"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=12:col=Torque [Nm]",
+    "value": "23.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0011"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=13:col=Torque [Nm]",
+    "value": "44.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0012"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=14:col=Torque [Nm]",
+    "value": "51.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0013"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=15:col=Torque [Nm]",
+    "value": "30",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0014"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=16:col=Torque [Nm]",
+    "value": "19.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0015"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=17:col=Torque [Nm]",
+    "value": "48.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0016"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=18:col=Torque [Nm]",
+    "value": "46.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0017"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=19:col=Torque [Nm]",
+    "value": "45.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0018"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=20:col=Torque [Nm]",
+    "value": "54.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0019"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=21:col=Torque [Nm]",
+    "value": "32.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0020"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=22:col=Torque [Nm]",
+    "value": "42.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0021"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=23:col=Torque [Nm]",
+    "value": "44.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0022"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=24:col=Torque [Nm]",
+    "value": "30.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0023"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=25:col=Torque [Nm]",
+    "value": "25.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0024"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=26:col=Torque [Nm]",
+    "value": "37.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0025"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=27:col=Torque [Nm]",
+    "value": "23.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0026"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=28:col=Torque [Nm]",
+    "value": "39",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0027"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=29:col=Torque [Nm]",
+    "value": "24.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0028"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=30:col=Torque [Nm]",
+    "value": "44.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0029"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=31:col=Torque [Nm]",
+    "value": "30.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0030"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=32:col=Torque [Nm]",
+    "value": "48.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0031"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=33:col=Torque [Nm]",
+    "value": "25.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0032"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=34:col=Torque [Nm]",
+    "value": "48.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0033"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=35:col=Torque [Nm]",
+    "value": "32.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0034"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=36:col=Torque [Nm]",
+    "value": "34.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0035"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=37:col=Torque [Nm]",
+    "value": "48.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0036"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=38:col=Torque [Nm]",
+    "value": "36.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0037"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=39:col=Torque [Nm]",
+    "value": "39.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0038"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=40:col=Torque [Nm]",
+    "value": "50.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0039"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=41:col=Torque [Nm]",
+    "value": "52.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0040"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=42:col=Torque [Nm]",
+    "value": "45.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0041"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=43:col=Torque [Nm]",
+    "value": "50.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0042"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=44:col=Torque [Nm]",
+    "value": "49.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0043"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=45:col=Torque [Nm]",
+    "value": "48.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0044"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=46:col=Torque [Nm]",
+    "value": "47.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0045"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=47:col=Torque [Nm]",
+    "value": "49.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0046"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=48:col=Torque [Nm]",
+    "value": "25.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0047"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=49:col=Torque [Nm]",
+    "value": "46.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0048"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=50:col=Torque [Nm]",
+    "value": "53.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0049"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=51:col=Torque [Nm]",
+    "value": "44.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0050"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=52:col=Torque [Nm]",
+    "value": "4.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0051"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=53:col=Torque [Nm]",
+    "value": "54.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0052"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=54:col=Torque [Nm]",
+    "value": "43.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0053"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=55:col=Torque [Nm]",
+    "value": "35.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0054"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=56:col=Torque [Nm]",
+    "value": "30.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0055"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=57:col=Torque [Nm]",
+    "value": "40.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0056"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=58:col=Torque [Nm]",
+    "value": "42.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0057"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=59:col=Torque [Nm]",
+    "value": "40.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0058"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=60:col=Torque [Nm]",
+    "value": "29.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0059"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=61:col=Torque [Nm]",
+    "value": "54.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0060"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=62:col=Torque [Nm]",
+    "value": "52.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0061"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=63:col=Torque [Nm]",
+    "value": "38.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0062"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=64:col=Torque [Nm]",
+    "value": "22.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0063"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=65:col=Torque [Nm]",
+    "value": "25.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0064"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=66:col=Torque [Nm]",
+    "value": "38.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0065"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=67:col=Torque [Nm]",
+    "value": "45.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0066"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=68:col=Torque [Nm]",
+    "value": "28.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0067"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=69:col=Torque [Nm]",
+    "value": "44.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0068"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=70:col=Torque [Nm]",
+    "value": "32.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0069"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=71:col=Torque [Nm]",
+    "value": "65.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0070"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=72:col=Torque [Nm]",
+    "value": "22.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0071"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=73:col=Torque [Nm]",
+    "value": "45.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0072"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=74:col=Torque [Nm]",
+    "value": "44.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0073"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=75:col=Torque [Nm]",
+    "value": "35",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0074"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=76:col=Torque [Nm]",
+    "value": "32.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0075"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=77:col=Torque [Nm]",
+    "value": "46.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0076"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=78:col=Torque [Nm]",
+    "value": "47.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0077"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=79:col=Torque [Nm]",
+    "value": "41.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0078"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=80:col=Torque [Nm]",
+    "value": "51.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0079"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=81:col=Torque [Nm]",
+    "value": "37.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0080"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=82:col=Torque [Nm]",
+    "value": "49.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0081"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=83:col=Torque [Nm]",
+    "value": "47.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0082"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=84:col=Torque [Nm]",
+    "value": "40.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0083"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=85:col=Torque [Nm]",
+    "value": "40.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0084"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=86:col=Torque [Nm]",
+    "value": "47.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0085"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=87:col=Torque [Nm]",
+    "value": "26.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0086"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=88:col=Torque [Nm]",
+    "value": "43.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0087"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=89:col=Torque [Nm]",
+    "value": "31.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0088"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=90:col=Torque [Nm]",
+    "value": "45.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0089"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=91:col=Torque [Nm]",
+    "value": "39.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0090"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=92:col=Torque [Nm]",
+    "value": "25.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0091"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=93:col=Torque [Nm]",
+    "value": "24.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0092"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=94:col=Torque [Nm]",
+    "value": "27.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0093"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=95:col=Torque [Nm]",
+    "value": "43",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0094"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=96:col=Torque [Nm]",
+    "value": "31.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0095"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=97:col=Torque [Nm]",
+    "value": "52.2",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0096"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=98:col=Torque [Nm]",
+    "value": "35.3",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0097"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=99:col=Torque [Nm]",
+    "value": "29.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0098"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=100:col=Torque [Nm]",
+    "value": "32.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0099"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=101:col=Torque [Nm]",
+    "value": "44.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0100"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=102:col=Torque [Nm]",
+    "value": "25",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0101"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=103:col=Torque [Nm]",
+    "value": "20.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0102"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=104:col=Torque [Nm]",
+    "value": "40.6",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0103"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=105:col=Torque [Nm]",
+    "value": "40.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0104"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=106:col=Torque [Nm]",
+    "value": "43.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0105"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=107:col=Torque [Nm]",
+    "value": "31.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0106"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=108:col=Torque [Nm]",
+    "value": "48.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0107"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=109:col=Torque [Nm]",
+    "value": "46.8",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0108"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=110:col=Torque [Nm]",
+    "value": "32.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0109"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=111:col=Torque [Nm]",
+    "value": "34.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0110"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=112:col=Torque [Nm]",
+    "value": "22.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0111"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=113:col=Torque [Nm]",
+    "value": "43.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0112"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=114:col=Torque [Nm]",
+    "value": "39.5",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0113"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=115:col=Torque [Nm]",
+    "value": "41.9",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0114"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=116:col=Torque [Nm]",
+    "value": "29.4",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0115"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=117:col=Torque [Nm]",
+    "value": "45.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0116"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=118:col=Torque [Nm]",
+    "value": "34.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0117"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=119:col=Torque [Nm]",
+    "value": "33",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0118"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=120:col=Torque [Nm]",
+    "value": "28.1",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0119"
+  },
+  {
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=121:col=Torque [Nm]",
+    "value": "40.7",
+    "unit": "Nm",
+    "field": "Torque",
+    "source_category": "public_synthetic",
+    "dataset": "AI4I",
+    "record_id": "A0120"
+  }
+]

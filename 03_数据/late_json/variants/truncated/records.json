@@ -1,0 +1,1110 @@
+[
+  {
+    "record_id": "H0001",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "35.57",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=1:col=1"
+  },
+  {
+    "record_id": "H0002",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "36.156",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=2:col=1"
+  },
+  {
+    "record_id": "H0003",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "37.488",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=3:col=1"
+  },
+  {
+    "record_id": "H0004",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "38.633",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=4:col=1"
+  },
+  {
+    "record_id": "H0005",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "39.461",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=5:col=1"
+  },
+  {
+    "record_id": "H0006",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "40.398",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=6:col=1"
+  },
+  {
+    "record_id": "H0007",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "41.223",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=7:col=1"
+  },
+  {
+    "record_id": "H0008",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "42.043",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=8:col=1"
+  },
+  {
+    "record_id": "H0009",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "42.73",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=9:col=1"
+  },
+  {
+    "record_id": "H0010",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "43.379",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=10:col=1"
+  },
+  {
+    "record_id": "H0011",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "43.992",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=11:col=1"
+  },
+  {
+    "record_id": "H0012",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "44.594",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=12:col=1"
+  },
+  {
+    "record_id": "H0013",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "45.082",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=13:col=1"
+  },
+  {
+    "record_id": "H0014",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "45.574",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=14:col=1"
+  },
+  {
+    "record_id": "H0015",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "45.992",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=15:col=1"
+  },
+  {
+    "record_id": "H0016",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "46.422",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=16:col=1"
+  },
+  {
+    "record_id": "H0017",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "46.762",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=17:col=1"
+  },
+  {
+    "record_id": "H0018",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "47.203",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=18:col=1"
+  },
+  {
+    "record_id": "H0019",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "47.453",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=19:col=1"
+  },
+  {
+    "record_id": "H0020",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "47.762",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=20:col=1"
+  },
+  {
+    "record_id": "H0021",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "48.027",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=21:col=1"
+  },
+  {
+    "record_id": "H0022",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "48.336",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=22:col=1"
+  },
+  {
+    "record_id": "H0023",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "48.535",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=23:col=1"
+  },
+  {
+    "record_id": "H0024",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "48.789",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=24:col=1"
+  },
+  {
+    "record_id": "H0025",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "48.957",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=25:col=1"
+  },
+  {
+    "record_id": "H0026",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "49.117",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=26:col=1"
+  },
+  {
+    "record_id": "H0027",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "49.332",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=27:col=1"
+  },
+  {
+    "record_id": "H0028",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "49.602",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=28:col=1"
+  },
+  {
+    "record_id": "H0029",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "49.719",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=29:col=1"
+  },
+  {
+    "record_id": "H0030",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "49.875",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=30:col=1"
+  },
+  {
+    "record_id": "H0031",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "49.996",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=31:col=1"
+  },
+  {
+    "record_id": "H0032",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.133",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=32:col=1"
+  },
+  {
+    "record_id": "H0033",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.199",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=33:col=1"
+  },
+  {
+    "record_id": "H0034",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.379",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=34:col=1"
+  },
+  {
+    "record_id": "H0035",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.437",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=35:col=1"
+  },
+  {
+    "record_id": "H0036",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.531",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=36:col=1"
+  },
+  {
+    "record_id": "H0037",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.633",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=37:col=1"
+  },
+  {
+    "record_id": "H0038",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.797",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=38:col=1"
+  },
+  {
+    "record_id": "H0039",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.84",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=39:col=1"
+  },
+  {
+    "record_id": "H0040",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.879",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=40:col=1"
+  },
+  {
+    "record_id": "H0041",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "50.965",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=41:col=1"
+  },
+  {
+    "record_id": "H0042",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.051",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=42:col=1"
+  },
+  {
+    "record_id": "H0043",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.129",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=43:col=1"
+  },
+  {
+    "record_id": "H0044",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.211",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=44:col=1"
+  },
+  {
+    "record_id": "H0045",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.316",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=45:col=1"
+  },
+  {
+    "record_id": "H0046",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.297",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=46:col=1"
+  },
+  {
+    "record_id": "H0047",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.371",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=47:col=1"
+  },
+  {
+    "record_id": "H0048",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.437",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=48:col=1"
+  },
+  {
+    "record_id": "H0049",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.449",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=49:col=1"
+  },
+  {
+    "record_id": "H0050",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.488",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=50:col=1"
+  },
+  {
+    "record_id": "H0051",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.555",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=51:col=1"
+  },
+  {
+    "record_id": "H0052",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.648",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=52:col=1"
+  },
+  {
+    "record_id": "H0053",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.703",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=53:col=1"
+  },
+  {
+    "record_id": "H0054",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.742",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=54:col=1"
+  },
+  {
+    "record_id": "H0055",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.73",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=55:col=1"
+  },
+  {
+    "record_id": "H0056",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.793",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=56:col=1"
+  },
+  {
+    "record_id": "H0057",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.883",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=57:col=1"
+  },
+  {
+    "record_id": "H0058",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.887",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=58:col=1"
+  },
+  {
+    "record_id": "H0059",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.891",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=59:col=1"
+  },
+  {
+    "record_id": "H0060",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.883",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=60:col=1"
+  },
+  {
+    "record_id": "H0061",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.957",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=61:col=1"
+  },
+  {
+    "record_id": "H0062",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.98",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=62:col=1"
+  },
+  {
+    "record_id": "H0063",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "51.98",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=63:col=1"
+  },
+  {
+    "record_id": "H0064",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.062",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=64:col=1"
+  },
+  {
+    "record_id": "H0065",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.07",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=65:col=1"
+  },
+  {
+    "record_id": "H0066",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.051",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=66:col=1"
+  },
+  {
+    "record_id": "H0067",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.129",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=67:col=1"
+  },
+  {
+    "record_id": "H0068",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.102",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=68:col=1"
+  },
+  {
+    "record_id": "H0069",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.137",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=69:col=1"
+  },
+  {
+    "record_id": "H0070",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.211",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=70:col=1"
+  },
+  {
+    "record_id": "H0071",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.316",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=71:col=1"
+  },
+  {
+    "record_id": "H0072",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.316",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=72:col=1"
+  },
+  {
+    "record_id": "H0073",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.328",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=73:col=1"
+  },
+  {
+    "record_id": "H0074",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.402",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=74:col=1"
+  },
+  {
+    "record_id": "H0075",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.477",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=75:col=1"
+  },
+  {
+    "record_id": "H0076",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.496",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=76:col=1"
+  },
+  {
+    "record_id": "H0077",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.555",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=77:col=1"
+  },
+  {
+    "record_id": "H0078",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.645",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=78:col=1"
+  },
+  {
+    "record_id": "H0079",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.656",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=79:col=1"
+  },
+  {
+    "record_id": "H0080",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.789",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=80:col=1"
+  },
+  {
+    "record_id": "H0081",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.801",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=81:col=1"
+  },
+  {
+    "record_id": "H0082",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.801",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=82:col=1"
+  },
+  {
+    "record_id": "H0083",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.828",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=83:col=1"
+  },
+  {
+    "record_id": "H0084",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.922",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=84:col=1"
+  },
+  {
+    "record_id": "H0085",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.887",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=85:col=1"
+  },
+  {
+    "record_id": "H0086",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.91",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=86:col=1"
+  },
+  {
+    "record_id": "H0087",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.977",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=87:col=1"
+  },
+  {
+    "record_id": "H0088",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.977",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=88:col=1"
+  },
+  {
+    "record_id": "H0089",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.969",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=89:col=1"
+  },
+  {
+    "record_id": "H0090",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "52.992",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=90:col=1"
+  },
+  {
+    "record_id": "H0091",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.074",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=91:col=1"
+  },
+  {
+    "record_id": "H0092",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.082",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=92:col=1"
+  },
+  {
+    "record_id": "H0093",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.148",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=93:col=1"
+  },
+  {
+    "record_id": "H0094",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.152",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=94:col=1"
+  },
+  {
+    "record_id": "H0095",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.191",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=95:col=1"
+  },
+  {
+    "record_id": "H0096",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.227",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=96:col=1"
+  },
+  {
+    "record_id": "H0097",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.23",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=97:col=1"
+  },
+  {
+    "record_id": "H0098",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.219",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=98:col=1"
+  },
+  {
+    "record_id": "H0099",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.32",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=99:col=1"
+  },
+  {
+    "record_id": "H0100",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.324",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=100:col=1"
+  },
+  {
+    "record_id": "H0101",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.219",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=101:col=1"
+  },
+  {
+    "record_id": "H0102",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.379",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=102:col=1"
+  },
+  {
+    "record_id": "H0103",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.379",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=103:col=1"
+  },
+  {
+    "record_id": "H0104",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.418",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=104:col=1"
+  },
+  {
+    "record_id": "H0105",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.414",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=105:col=1"
+  },
+  {
+    "record_id": "H0106",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.402",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=106:col=1"
+  },
+  {
+    "record_id": "H0107",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.391",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=107:col=1"
+  },
+  {
+    "record_id": "H0108",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.402",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=108:col=1"
+  },
+  {
+    "record_id": "H0109",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.48",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=109:col=1"
+  },
+  {
+    "record_id": "H0110",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.566",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=110:col=1"
+  },
+  {
+    "record_id": "H0111",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.566",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=111:col=1"
+  },
+  {
+    "record_id": "H0112",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.562",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=112:col=1"
+  },
+  {
+    "record_id": "H0113",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.621",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=113:col=1"
+  },
+  {
+    "record_id": "H0114",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.566",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=114:col=1"
+  },
+  {
+    "record_id": "H0115",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.652",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=115:col=1"
+  },
+  {
+    "record_id": "H0116",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.621",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=116:col=1"
+  },
+  {
+    "record_id": "H0117",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.645",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=117:col=1"
+  },
+  {
+    "record_id": "H0118",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.652",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=118:col=1"
+  },
+  {
+    "record_id": "H0119",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.746",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=119:col=1"
+  },
+  {
+    "record_id": "H0120",
+    "dataset": "Hydraulic",
+    "source_category": "public_real",
+    "field": "TS1",
+    "unit": "degC",
+    "value": "53.75",
+    "source_locator": "https://archive.ics.uci.edu/dataset/447#TS1.txt:row=120:col=1"
+  },
+  {
+    "record_id": "A0001",
+    "dataset": "AI4I",
+    "source_category": "public_synthetic",
+    "field": "Torque",
+    "unit": "Nm",
+    "value": "42.8",
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=2:col=Torque [Nm]"
+  },
+  {
+    "record_id": "A0002",
+    "dataset": "AI4I",
+    "source_category": "public_synthetic",
+    "field": "Torque",
+    "unit": "Nm",
+    "value": "46.3",
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=3:col=Torque [Nm]"
+  },
+  {
+    "record_id": "A0003",
+    "dataset": "AI4I",
+    "source_category": "public_synthetic",
+    "field": "Torque",
+    "unit": "Nm",
+    "value": "49.4",
+    "source_locator": "https://archive.ics.uci.edu/dataset/601#ai4i2020.csv:row=4:col=Torque [Nm]"
+  },
+  {
+    "record_id": "A
